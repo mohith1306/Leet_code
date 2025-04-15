@@ -44,6 +44,7 @@ Each solution includes:
 | ------- |
 | [0001-two-sum](https://github.com/mohith1306/Leet_code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohith1306/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/mohith1306/Leet_code/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,8 +72,13 @@ Each solution includes:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohith1306/Leet_code/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/mohith1306/Leet_code/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohith1306/Leet_code/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mohith1306/Leet_code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
