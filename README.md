@@ -310,6 +310,7 @@ Each solution includes:
 | [0144-binary-tree-preorder-traversal](https://github.com/mohith1306/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohith1306/Leet_code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mohith1306/Leet_code/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/mohith1306/Leet_code/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -338,6 +339,7 @@ Each solution includes:
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/mohith1306/Leet_code/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/mohith1306/Leet_code/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/mohith1306/Leet_code/tree/master/0207-course-schedule) |
 ## Union Find
 |  |
 | ------- |
@@ -351,4 +353,12 @@ Each solution includes:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohith1306/Leet_code/tree/master/0169-majority-element) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mohith1306/Leet_code/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mohith1306/Leet_code/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
