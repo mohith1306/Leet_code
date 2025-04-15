@@ -52,6 +52,7 @@ Each solution includes:
 | [0015-3sum](https://github.com/mohith1306/Leet_code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohith1306/Leet_code/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohith1306/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
