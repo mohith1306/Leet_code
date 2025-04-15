@@ -39,6 +39,7 @@ Each solution includes:
 | [0009-palindrome-number](https://github.com/mohith1306/Leet_code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mohith1306/Leet_code/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/mohith1306/Leet_code/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/mohith1306/Leet_code/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Each solution includes:
 | [0040-combination-sum-ii](https://github.com/mohith1306/Leet_code/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/mohith1306/Leet_code/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/mohith1306/Leet_code/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/mohith1306/Leet_code/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,4 +147,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mohith1306/Leet_code/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/mohith1306/Leet_code/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
