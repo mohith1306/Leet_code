@@ -79,6 +79,7 @@ Each solution includes:
 | [0066-plus-one](https://github.com/mohith1306/Leet_code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mohith1306/Leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mohith1306/Leet_code/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/mohith1306/Leet_code/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Each solution includes:
 | [0027-remove-element](https://github.com/mohith1306/Leet_code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/mohith1306/Leet_code/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/mohith1306/Leet_code/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Each solution includes:
 | [0015-3sum](https://github.com/mohith1306/Leet_code/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/mohith1306/Leet_code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mohith1306/Leet_code/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/mohith1306/Leet_code/tree/master/0075-sort-colors) |
 ## Backtracking
 |  |
 | ------- |
