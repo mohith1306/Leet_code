@@ -104,6 +104,7 @@ Each solution includes:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohith1306/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mohith1306/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohith1306/Leet_code/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/mohith1306/Leet_code/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +199,7 @@ Each solution includes:
 | [0070-climbing-stairs](https://github.com/mohith1306/Leet_code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mohith1306/Leet_code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohith1306/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/mohith1306/Leet_code/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
