@@ -36,6 +36,7 @@ Each solution includes:
 | [0086-partition-list](https://github.com/mohith1306/Leet_code/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/mohith1306/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mohith1306/Leet_code/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohith1306/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Each solution includes:
 | [0076-minimum-window-substring](https://github.com/mohith1306/Leet_code/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/mohith1306/Leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mohith1306/Leet_code/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohith1306/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Each solution includes:
 | [0141-linked-list-cycle](https://github.com/mohith1306/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mohith1306/Leet_code/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohith1306/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
