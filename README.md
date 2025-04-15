@@ -51,6 +51,7 @@ Each solution includes:
 | [0067-add-binary](https://github.com/mohith1306/Leet_code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mohith1306/Leet_code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohith1306/Leet_code/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohith1306/Leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Each solution includes:
 | [0130-surrounded-regions](https://github.com/mohith1306/Leet_code/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/mohith1306/Leet_code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mohith1306/Leet_code/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohith1306/Leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Each solution includes:
 | [0143-reorder-list](https://github.com/mohith1306/Leet_code/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohith1306/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohith1306/Leet_code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohith1306/Leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String Matching
 |  |
 | ------- |
