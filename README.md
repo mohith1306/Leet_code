@@ -68,6 +68,7 @@ Each solution includes:
 | [0054-spiral-matrix](https://github.com/mohith1306/Leet_code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mohith1306/Leet_code/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/mohith1306/Leet_code/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0059-spiral-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,9 +161,11 @@ Each solution includes:
 | ------- |
 | [0043-multiply-strings](https://github.com/mohith1306/Leet_code/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/mohith1306/Leet_code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0059-spiral-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mohith1306/Leet_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mohith1306/Leet_code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
