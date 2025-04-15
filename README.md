@@ -45,6 +45,7 @@ Each solution includes:
 | [0062-unique-paths](https://github.com/mohith1306/Leet_code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mohith1306/Leet_code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mohith1306/Leet_code/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/mohith1306/Leet_code/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Each solution includes:
 | [0033-search-in-rotated-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohith1306/Leet_code/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mohith1306/Leet_code/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
