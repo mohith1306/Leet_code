@@ -62,6 +62,7 @@ Each solution includes:
 | [0041-first-missing-positive](https://github.com/mohith1306/Leet_code/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/mohith1306/Leet_code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/mohith1306/Leet_code/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/mohith1306/Leet_code/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Each solution includes:
 | [0013-roman-to-integer](https://github.com/mohith1306/Leet_code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohith1306/Leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/mohith1306/Leet_code/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/mohith1306/Leet_code/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Each solution includes:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/mohith1306/Leet_code/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/mohith1306/Leet_code/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/mohith1306/Leet_code/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,6 +130,7 @@ Each solution includes:
 | ------- |
 | [0015-3sum](https://github.com/mohith1306/Leet_code/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/mohith1306/Leet_code/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/mohith1306/Leet_code/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
