@@ -190,6 +190,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohith1306/Leet_code/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohith1306/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -224,4 +225,16 @@ Each solution includes:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohith1306/Leet_code/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohith1306/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohith1306/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohith1306/Leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
