@@ -66,6 +66,7 @@ Each solution includes:
 | [0048-rotate-image](https://github.com/mohith1306/Leet_code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mohith1306/Leet_code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/mohith1306/Leet_code/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/mohith1306/Leet_code/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,10 +121,12 @@ Each solution includes:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohith1306/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mohith1306/Leet_code/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/mohith1306/Leet_code/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohith1306/Leet_code/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/mohith1306/Leet_code/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
