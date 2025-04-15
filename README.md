@@ -40,11 +40,13 @@ Each solution includes:
 | [0013-roman-to-integer](https://github.com/mohith1306/Leet_code/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/mohith1306/Leet_code/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/mohith1306/Leet_code/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/mohith1306/Leet_code/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohith1306/Leet_code/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/mohith1306/Leet_code/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/mohith1306/Leet_code/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
