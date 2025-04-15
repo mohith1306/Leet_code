@@ -30,6 +30,7 @@ Each solution includes:
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohith1306/Leet_code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohith1306/Leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/mohith1306/Leet_code/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohith1306/Leet_code/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/mohith1306/Leet_code/tree/master/0024-swap-nodes-in-pairs) |
 ## Array
 |  |
 | ------- |
