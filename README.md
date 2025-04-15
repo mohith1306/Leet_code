@@ -54,6 +54,7 @@ Each solution includes:
 | [0027-remove-element](https://github.com/mohith1306/Leet_code/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/mohith1306/Leet_code/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Each solution includes:
 | [0004-median-of-two-sorted-arrays](https://github.com/mohith1306/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/mohith1306/Leet_code/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
