@@ -125,6 +125,7 @@ Each solution includes:
 | [0160-intersection-of-two-linked-lists](https://github.com/mohith1306/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mohith1306/Leet_code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/mohith1306/Leet_code/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/mohith1306/Leet_code/tree/master/0208-implement-trie-prefix-tree) |
 ## String
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Each solution includes:
 | [0151-reverse-words-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/mohith1306/Leet_code/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/mohith1306/Leet_code/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/mohith1306/Leet_code/tree/master/0208-implement-trie-prefix-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -215,6 +217,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohith1306/Leet_code/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/mohith1306/Leet_code/tree/master/0208-implement-trie-prefix-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -349,6 +352,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mohith1306/Leet_code/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/mohith1306/Leet_code/tree/master/0208-implement-trie-prefix-tree) |
 ## Counting
 |  |
 | ------- |
