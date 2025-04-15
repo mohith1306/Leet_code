@@ -33,6 +33,7 @@ Each solution includes:
 | [0024-swap-nodes-in-pairs](https://github.com/mohith1306/Leet_code/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/mohith1306/Leet_code/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mohith1306/Leet_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/mohith1306/Leet_code/tree/master/0086-partition-list) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Each solution includes:
 | [0061-rotate-list](https://github.com/mohith1306/Leet_code/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/mohith1306/Leet_code/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mohith1306/Leet_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/mohith1306/Leet_code/tree/master/0086-partition-list) |
 ## Dynamic Programming
 |  |
 | ------- |
