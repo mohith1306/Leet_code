@@ -101,6 +101,7 @@ Each solution includes:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohith1306/Leet_code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohith1306/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/mohith1306/Leet_code/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Each solution includes:
 | [0128-longest-consecutive-sequence](https://github.com/mohith1306/Leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mohith1306/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohith1306/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/mohith1306/Leet_code/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohith1306/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/mohith1306/Leet_code/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -208,6 +211,7 @@ Each solution includes:
 | [0049-group-anagrams](https://github.com/mohith1306/Leet_code/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/mohith1306/Leet_code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mohith1306/Leet_code/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -326,4 +330,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mohith1306/Leet_code/tree/master/0155-min-stack) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mohith1306/Leet_code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
