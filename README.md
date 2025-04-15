@@ -38,6 +38,7 @@ Each solution includes:
 | [0007-reverse-integer](https://github.com/mohith1306/Leet_code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mohith1306/Leet_code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mohith1306/Leet_code/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/mohith1306/Leet_code/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Each solution includes:
 | [0022-generate-parentheses](https://github.com/mohith1306/Leet_code/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/mohith1306/Leet_code/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/mohith1306/Leet_code/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,4 +138,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/mohith1306/Leet_code/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
