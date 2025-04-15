@@ -46,6 +46,7 @@ Each solution includes:
 | [0066-plus-one](https://github.com/mohith1306/Leet_code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mohith1306/Leet_code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mohith1306/Leet_code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mohith1306/Leet_code/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Each solution includes:
 | [0055-jump-game](https://github.com/mohith1306/Leet_code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mohith1306/Leet_code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mohith1306/Leet_code/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/mohith1306/Leet_code/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -190,4 +192,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mohith1306/Leet_code/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mohith1306/Leet_code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
