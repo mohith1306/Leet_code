@@ -99,6 +99,7 @@ Each solution includes:
 | [0137-single-number-ii](https://github.com/mohith1306/Leet_code/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohith1306/Leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/mohith1306/Leet_code/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Each solution includes:
 | [0074-search-a-2d-matrix](https://github.com/mohith1306/Leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohith1306/Leet_code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/mohith1306/Leet_code/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
