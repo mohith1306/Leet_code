@@ -87,6 +87,7 @@ Each solution includes:
 | [0088-merge-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/mohith1306/Leet_code/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/mohith1306/Leet_code/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mohith1306/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ Each solution includes:
 | [0063-unique-paths-ii](https://github.com/mohith1306/Leet_code/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/mohith1306/Leet_code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mohith1306/Leet_code/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mohith1306/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
