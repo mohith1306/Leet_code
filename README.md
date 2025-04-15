@@ -53,6 +53,7 @@ Each solution includes:
 | [0069-sqrtx](https://github.com/mohith1306/Leet_code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohith1306/Leet_code/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohith1306/Leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/mohith1306/Leet_code/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Each solution includes:
 | [0162-find-peak-element](https://github.com/mohith1306/Leet_code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohith1306/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mohith1306/Leet_code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/mohith1306/Leet_code/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +185,7 @@ Each solution includes:
 | [0160-intersection-of-two-linked-lists](https://github.com/mohith1306/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/mohith1306/Leet_code/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohith1306/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/mohith1306/Leet_code/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
