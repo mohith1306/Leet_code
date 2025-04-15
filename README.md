@@ -59,6 +59,7 @@ Each solution includes:
 | [0005-longest-palindromic-substring](https://github.com/mohith1306/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/mohith1306/Leet_code/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/mohith1306/Leet_code/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/mohith1306/Leet_code/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,4 +85,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohith1306/Leet_code/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mohith1306/Leet_code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
