@@ -37,6 +37,7 @@ Each solution includes:
 | [0141-linked-list-cycle](https://github.com/mohith1306/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mohith1306/Leet_code/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohith1306/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/mohith1306/Leet_code/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Each solution includes:
 | [0024-swap-nodes-in-pairs](https://github.com/mohith1306/Leet_code/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/mohith1306/Leet_code/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/mohith1306/Leet_code/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/mohith1306/Leet_code/tree/master/0203-remove-linked-list-elements) |
 ## Array
 |  |
 | ------- |
