@@ -218,6 +218,7 @@ Each solution includes:
 | [0144-binary-tree-preorder-traversal](https://github.com/mohith1306/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohith1306/Leet_code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohith1306/Leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/mohith1306/Leet_code/tree/master/0155-min-stack) |
 ## String Matching
 |  |
 | ------- |
@@ -311,4 +312,8 @@ Each solution includes:
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohith1306/Leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/mohith1306/Leet_code/tree/master/0130-surrounded-regions) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mohith1306/Leet_code/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
