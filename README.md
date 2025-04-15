@@ -71,6 +71,7 @@ Each solution includes:
 | [0055-jump-game](https://github.com/mohith1306/Leet_code/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/mohith1306/Leet_code/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/mohith1306/Leet_code/tree/master/0063-unique-paths-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Each solution includes:
 | [0022-generate-parentheses](https://github.com/mohith1306/Leet_code/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mohith1306/Leet_code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mohith1306/Leet_code/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/mohith1306/Leet_code/tree/master/0063-unique-paths-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -172,6 +174,7 @@ Each solution includes:
 | [0048-rotate-image](https://github.com/mohith1306/Leet_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mohith1306/Leet_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/mohith1306/Leet_code/tree/master/0063-unique-paths-ii) |
 ## Combinatorics
 |  |
 | ------- |
