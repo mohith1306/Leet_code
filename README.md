@@ -77,6 +77,7 @@ Each solution includes:
 | [0059-spiral-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/mohith1306/Leet_code/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/mohith1306/Leet_code/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/mohith1306/Leet_code/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Each solution includes:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohith1306/Leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/mohith1306/Leet_code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mohith1306/Leet_code/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/mohith1306/Leet_code/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Each solution includes:
 | [0054-spiral-matrix](https://github.com/mohith1306/Leet_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/mohith1306/Leet_code/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/mohith1306/Leet_code/tree/master/0073-set-matrix-zeroes) |
 ## Combinatorics
 |  |
 | ------- |
