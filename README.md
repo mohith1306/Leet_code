@@ -59,6 +59,7 @@ Each solution includes:
 | [0039-combination-sum](https://github.com/mohith1306/Leet_code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mohith1306/Leet_code/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/mohith1306/Leet_code/tree/master/0041-first-missing-positive) |
+| [0047-permutations-ii](https://github.com/mohith1306/Leet_code/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohith1306/Leet_code/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/mohith1306/Leet_code/tree/master/0047-permutations-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Each solution includes:
 | [0022-generate-parentheses](https://github.com/mohith1306/Leet_code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mohith1306/Leet_code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mohith1306/Leet_code/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/mohith1306/Leet_code/tree/master/0047-permutations-ii) |
 ## Stack
 |  |
 | ------- |
