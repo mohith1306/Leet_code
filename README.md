@@ -86,6 +86,7 @@ Each solution includes:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohith1306/Leet_code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/mohith1306/Leet_code/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/mohith1306/Leet_code/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Each solution includes:
 | [0062-unique-paths](https://github.com/mohith1306/Leet_code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mohith1306/Leet_code/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/mohith1306/Leet_code/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/mohith1306/Leet_code/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
