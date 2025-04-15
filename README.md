@@ -172,6 +172,7 @@ Each solution includes:
 | [0039-combination-sum](https://github.com/mohith1306/Leet_code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mohith1306/Leet_code/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/mohith1306/Leet_code/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/mohith1306/Leet_code/tree/master/0077-combinations) |
 ## Stack
 |  |
 | ------- |
