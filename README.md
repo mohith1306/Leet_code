@@ -57,6 +57,7 @@ Each solution includes:
 | [0035-search-insert-position](https://github.com/mohith1306/Leet_code/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/mohith1306/Leet_code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mohith1306/Leet_code/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/mohith1306/Leet_code/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Each solution includes:
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohith1306/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mohith1306/Leet_code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohith1306/Leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/mohith1306/Leet_code/tree/master/0041-first-missing-positive) |
 ## String
 |  |
 | ------- |
