@@ -117,6 +117,7 @@ Each solution includes:
 | [0058-length-of-last-word](https://github.com/mohith1306/Leet_code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mohith1306/Leet_code/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/mohith1306/Leet_code/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Each solution includes:
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mohith1306/Leet_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/mohith1306/Leet_code/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
