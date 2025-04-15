@@ -109,6 +109,7 @@ Each solution includes:
 | [0169-majority-element](https://github.com/mohith1306/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohith1306/Leet_code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mohith1306/Leet_code/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohith1306/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Each solution includes:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohith1306/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mohith1306/Leet_code/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohith1306/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Each solution includes:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohith1306/Leet_code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohith1306/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohith1306/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -365,4 +368,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mohith1306/Leet_code/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohith1306/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
