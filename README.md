@@ -32,6 +32,7 @@ Each solution includes:
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohith1306/Leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/mohith1306/Leet_code/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/mohith1306/Leet_code/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mohith1306/Leet_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Each solution includes:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/mohith1306/Leet_code/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/mohith1306/Leet_code/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mohith1306/Leet_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
