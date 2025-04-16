@@ -149,6 +149,7 @@ Each solution includes:
 | [0540-single-element-in-a-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/mohith1306/Leet_code/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/mohith1306/Leet_code/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/mohith1306/Leet_code/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -243,6 +244,7 @@ Each solution includes:
 | [0349-intersection-of-two-arrays](https://github.com/mohith1306/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/mohith1306/Leet_code/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/mohith1306/Leet_code/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
