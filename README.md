@@ -131,6 +131,7 @@ Each solution includes:
 | [0268-missing-number](https://github.com/mohith1306/Leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohith1306/Leet_code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohith1306/Leet_code/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/mohith1306/Leet_code/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -249,6 +250,7 @@ Each solution includes:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohith1306/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/mohith1306/Leet_code/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/mohith1306/Leet_code/tree/master/0233-number-of-digit-one) |
+| [0322-coin-change](https://github.com/mohith1306/Leet_code/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -408,6 +410,7 @@ Each solution includes:
 | [0130-surrounded-regions](https://github.com/mohith1306/Leet_code/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/mohith1306/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/mohith1306/Leet_code/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/mohith1306/Leet_code/tree/master/0322-coin-change) |
 ## Union Find
 |  |
 | ------- |
