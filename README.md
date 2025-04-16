@@ -166,6 +166,7 @@ Each solution includes:
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -199,6 +200,7 @@ Each solution includes:
 | [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/mohith1306/Leet_code/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -308,6 +310,7 @@ Each solution includes:
 | [0242-valid-anagram](https://github.com/mohith1306/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohith1306/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohith1306/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -465,6 +468,7 @@ Each solution includes:
 | [0169-majority-element](https://github.com/mohith1306/Leet_code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/mohith1306/Leet_code/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 ## Graph
 |  |
 | ------- |
@@ -483,6 +487,7 @@ Each solution includes:
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mohith1306/Leet_code/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -503,4 +508,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
