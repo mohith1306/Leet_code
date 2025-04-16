@@ -57,6 +57,7 @@ Each solution includes:
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohith1306/Leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mohith1306/Leet_code/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/mohith1306/Leet_code/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Each solution includes:
 | [0203-remove-linked-list-elements](https://github.com/mohith1306/Leet_code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/mohith1306/Leet_code/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -298,6 +300,7 @@ Each solution includes:
 | [0136-single-number](https://github.com/mohith1306/Leet_code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mohith1306/Leet_code/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/mohith1306/Leet_code/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/mohith1306/Leet_code/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
