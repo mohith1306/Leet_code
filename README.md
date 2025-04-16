@@ -189,6 +189,7 @@ Each solution includes:
 | [0344-reverse-string](https://github.com/mohith1306/Leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohith1306/Leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mohith1306/Leet_code/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -251,6 +252,7 @@ Each solution includes:
 | [0344-reverse-string](https://github.com/mohith1306/Leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohith1306/Leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mohith1306/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -265,6 +267,7 @@ Each solution includes:
 | [0198-house-robber](https://github.com/mohith1306/Leet_code/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/mohith1306/Leet_code/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/mohith1306/Leet_code/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
