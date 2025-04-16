@@ -65,6 +65,7 @@ Each solution includes:
 | [0258-add-digits](https://github.com/mohith1306/Leet_code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mohith1306/Leet_code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/mohith1306/Leet_code/tree/master/0326-power-of-three) |
+| [0564-find-the-closest-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/mohith1306/Leet_code/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -208,6 +209,7 @@ Each solution includes:
 | [0443-string-compression](https://github.com/mohith1306/Leet_code/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/mohith1306/Leet_code/tree/master/0468-validate-ip-address) |
+| [0564-find-the-closest-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0564-find-the-closest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
