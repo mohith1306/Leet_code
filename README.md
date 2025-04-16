@@ -135,6 +135,7 @@ Each solution includes:
 | [0283-move-zeroes](https://github.com/mohith1306/Leet_code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohith1306/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/mohith1306/Leet_code/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -259,6 +260,7 @@ Each solution includes:
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohith1306/Leet_code/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/mohith1306/Leet_code/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0334-increasing-triplet-subsequence) |
 ## Trie
 |  |
 | ------- |
