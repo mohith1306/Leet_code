@@ -215,6 +215,7 @@ Each solution includes:
 | [0468-validate-ip-address](https://github.com/mohith1306/Leet_code/tree/master/0468-validate-ip-address) |
 | [0564-find-the-closest-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mohith1306/Leet_code/tree/master/0567-permutation-in-string) |
+| [0742-to-lower-case](https://github.com/mohith1306/Leet_code/tree/master/0742-to-lower-case) |
 ## Sliding Window
 |  |
 | ------- |
