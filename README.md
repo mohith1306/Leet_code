@@ -190,6 +190,7 @@ Each solution includes:
 | [0345-reverse-vowels-of-a-string](https://github.com/mohith1306/Leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mohith1306/Leet_code/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -274,6 +275,7 @@ Each solution includes:
 | [0011-container-with-most-water](https://github.com/mohith1306/Leet_code/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/mohith1306/Leet_code/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
 ## Trie
 |  |
 | ------- |
@@ -319,6 +321,7 @@ Each solution includes:
 | [0155-min-stack](https://github.com/mohith1306/Leet_code/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -482,4 +485,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mohith1306/Leet_code/tree/master/0258-add-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
