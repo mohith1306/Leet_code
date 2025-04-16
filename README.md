@@ -149,6 +149,7 @@ Each solution includes:
 | [0540-single-element-in-a-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/mohith1306/Leet_code/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/mohith1306/Leet_code/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/mohith1306/Leet_code/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/mohith1306/Leet_code/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -524,6 +525,7 @@ Each solution includes:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohith1306/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mohith1306/Leet_code/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/mohith1306/Leet_code/tree/master/0724-find-pivot-index) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
