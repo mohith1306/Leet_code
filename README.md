@@ -174,6 +174,7 @@ Each solution includes:
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/mohith1306/Leet_code/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -210,6 +211,7 @@ Each solution includes:
 | [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/mohith1306/Leet_code/tree/master/0468-validate-ip-address) |
 | [0564-find-the-closest-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/mohith1306/Leet_code/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Each solution includes:
 | [0209-minimum-size-subarray-sum](https://github.com/mohith1306/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/mohith1306/Leet_code/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/mohith1306/Leet_code/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -276,6 +279,7 @@ Each solution includes:
 | [0349-intersection-of-two-arrays](https://github.com/mohith1306/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/mohith1306/Leet_code/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/mohith1306/Leet_code/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
