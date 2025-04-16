@@ -148,6 +148,7 @@ Each solution includes:
 | [0518-coin-change-ii](https://github.com/mohith1306/Leet_code/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/mohith1306/Leet_code/tree/master/0542-01-matrix) |
+| [0682-baseball-game](https://github.com/mohith1306/Leet_code/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -358,6 +359,7 @@ Each solution includes:
 | [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
+| [0682-baseball-game](https://github.com/mohith1306/Leet_code/tree/master/0682-baseball-game) |
 ## String Matching
 |  |
 | ------- |
@@ -370,6 +372,7 @@ Each solution includes:
 | [0059-spiral-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/mohith1306/Leet_code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/mohith1306/Leet_code/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/mohith1306/Leet_code/tree/master/0682-baseball-game) |
 ## Matrix
 |  |
 | ------- |
