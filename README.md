@@ -56,6 +56,7 @@ Each solution includes:
 | [0070-climbing-stairs](https://github.com/mohith1306/Leet_code/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohith1306/Leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mohith1306/Leet_code/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Each solution includes:
 | [0143-reorder-list](https://github.com/mohith1306/Leet_code/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/mohith1306/Leet_code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
 ## Array
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Each solution includes:
 | [0165-compare-version-numbers](https://github.com/mohith1306/Leet_code/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/mohith1306/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/mohith1306/Leet_code/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -257,6 +260,7 @@ Each solution includes:
 | [0145-binary-tree-postorder-traversal](https://github.com/mohith1306/Leet_code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohith1306/Leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mohith1306/Leet_code/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
 ## String Matching
 |  |
 | ------- |
