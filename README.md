@@ -170,6 +170,7 @@ Each solution includes:
 | [0208-implement-trie-prefix-tree](https://github.com/mohith1306/Leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/mohith1306/Leet_code/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/mohith1306/Leet_code/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -271,6 +272,7 @@ Each solution includes:
 | [0077-combinations](https://github.com/mohith1306/Leet_code/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mohith1306/Leet_code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mohith1306/Leet_code/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/mohith1306/Leet_code/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -339,6 +341,7 @@ Each solution includes:
 | [0199-binary-tree-right-side-view](https://github.com/mohith1306/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mohith1306/Leet_code/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -355,6 +358,7 @@ Each solution includes:
 | [0207-course-schedule](https://github.com/mohith1306/Leet_code/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mohith1306/Leet_code/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -371,6 +375,7 @@ Each solution includes:
 | [0199-binary-tree-right-side-view](https://github.com/mohith1306/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mohith1306/Leet_code/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
