@@ -124,6 +124,7 @@ Each solution includes:
 | [0229-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mohith1306/Leet_code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mohith1306/Leet_code/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Each solution includes:
 | [0162-find-peak-element](https://github.com/mohith1306/Leet_code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohith1306/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohith1306/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Each solution includes:
 | [0169-majority-element](https://github.com/mohith1306/Leet_code/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/mohith1306/Leet_code/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -298,6 +301,7 @@ Each solution includes:
 | [0073-set-matrix-zeroes](https://github.com/mohith1306/Leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mohith1306/Leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/mohith1306/Leet_code/tree/master/0130-surrounded-regions) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Combinatorics
 |  |
 | ------- |
