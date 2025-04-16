@@ -460,6 +460,7 @@ Each solution includes:
 | [0386-lexicographical-numbers](https://github.com/mohith1306/Leet_code/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/mohith1306/Leet_code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mohith1306/Leet_code/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/mohith1306/Leet_code/tree/master/0820-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -503,6 +504,7 @@ Each solution includes:
 | [0542-01-matrix](https://github.com/mohith1306/Leet_code/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mohith1306/Leet_code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mohith1306/Leet_code/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/mohith1306/Leet_code/tree/master/0820-find-eventual-safe-states) |
 ## Union Find
 |  |
 | ------- |
@@ -526,10 +528,12 @@ Each solution includes:
 | ------- |
 | [0207-course-schedule](https://github.com/mohith1306/Leet_code/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/mohith1306/Leet_code/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/mohith1306/Leet_code/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mohith1306/Leet_code/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/mohith1306/Leet_code/tree/master/0820-find-eventual-safe-states) |
 ## Prefix Sum
 |  |
 | ------- |
