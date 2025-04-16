@@ -67,6 +67,7 @@ Each solution includes:
 | [0326-power-of-three](https://github.com/mohith1306/Leet_code/tree/master/0326-power-of-three) |
 | [0564-find-the-closest-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0564-find-the-closest-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/mohith1306/Leet_code/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/mohith1306/Leet_code/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/mohith1306/Leet_code/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
