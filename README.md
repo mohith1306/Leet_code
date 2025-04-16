@@ -66,6 +66,7 @@ Each solution includes:
 | [0268-missing-number](https://github.com/mohith1306/Leet_code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/mohith1306/Leet_code/tree/master/0326-power-of-three) |
 | [0564-find-the-closest-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0564-find-the-closest-palindrome) |
+| [0633-sum-of-square-numbers](https://github.com/mohith1306/Leet_code/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/mohith1306/Leet_code/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -240,6 +241,7 @@ Each solution includes:
 | [0287-find-the-duplicate-number](https://github.com/mohith1306/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohith1306/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/mohith1306/Leet_code/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Each solution includes:
 | [0392-is-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/mohith1306/Leet_code/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mohith1306/Leet_code/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/mohith1306/Leet_code/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
