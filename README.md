@@ -161,6 +161,7 @@ Each solution includes:
 | [0268-missing-number](https://github.com/mohith1306/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohith1306/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/mohith1306/Leet_code/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -192,6 +193,7 @@ Each solution includes:
 | [0383-ransom-note](https://github.com/mohith1306/Leet_code/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Each solution includes:
 | [0076-minimum-window-substring](https://github.com/mohith1306/Leet_code/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohith1306/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/mohith1306/Leet_code/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
