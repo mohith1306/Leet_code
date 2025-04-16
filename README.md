@@ -114,6 +114,7 @@ Each solution includes:
 | [0209-minimum-size-subarray-sum](https://github.com/mohith1306/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mohith1306/Leet_code/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Each solution includes:
 | [0205-isomorphic-strings](https://github.com/mohith1306/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/mohith1306/Leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/mohith1306/Leet_code/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -239,6 +241,7 @@ Each solution includes:
 | [0169-majority-element](https://github.com/mohith1306/Leet_code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mohith1306/Leet_code/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/0229-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -370,6 +373,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohith1306/Leet_code/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/0229-majority-element-ii) |
 ## Graph
 |  |
 | ------- |
