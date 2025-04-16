@@ -140,6 +140,7 @@ Each solution includes:
 | [0416-partition-equal-subset-sum](https://github.com/mohith1306/Leet_code/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/mohith1306/Leet_code/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -283,6 +284,7 @@ Each solution includes:
 | [0322-coin-change](https://github.com/mohith1306/Leet_code/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mohith1306/Leet_code/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/mohith1306/Leet_code/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -324,6 +326,7 @@ Each solution includes:
 | [0078-subsets](https://github.com/mohith1306/Leet_code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mohith1306/Leet_code/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/mohith1306/Leet_code/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/mohith1306/Leet_code/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
