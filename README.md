@@ -122,6 +122,7 @@ Each solution includes:
 | [0215-kth-largest-element-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mohith1306/Leet_code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/mohith1306/Leet_code/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -404,6 +405,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohith1306/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/mohith1306/Leet_code/tree/master/0238-product-of-array-except-self) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
