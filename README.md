@@ -144,6 +144,7 @@ Each solution includes:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/mohith1306/Leet_code/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/mohith1306/Leet_code/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Each solution includes:
 | [0268-missing-number](https://github.com/mohith1306/Leet_code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohith1306/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohith1306/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
