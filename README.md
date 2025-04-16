@@ -58,6 +58,7 @@ Each solution includes:
 | [0189-rotate-array](https://github.com/mohith1306/Leet_code/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/mohith1306/Leet_code/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/mohith1306/Leet_code/tree/master/0233-number-of-digit-one) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Each solution includes:
 | [0206-reverse-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/mohith1306/Leet_code/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/mohith1306/Leet_code/tree/master/0233-number-of-digit-one) |
 ## Array
 |  |
 | ------- |
@@ -222,6 +224,7 @@ Each solution includes:
 | [0118-pascals-triangle](https://github.com/mohith1306/Leet_code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohith1306/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/mohith1306/Leet_code/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/mohith1306/Leet_code/tree/master/0233-number-of-digit-one) |
 ## Greedy
 |  |
 | ------- |
