@@ -144,6 +144,7 @@ Each solution includes:
 | [0208-implement-trie-prefix-tree](https://github.com/mohith1306/Leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/mohith1306/Leet_code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/mohith1306/Leet_code/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Each solution includes:
 | [0205-isomorphic-strings](https://github.com/mohith1306/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/mohith1306/Leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/mohith1306/Leet_code/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -257,6 +259,7 @@ Each solution includes:
 | [0215-kth-largest-element-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mohith1306/Leet_code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/mohith1306/Leet_code/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
