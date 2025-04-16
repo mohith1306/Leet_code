@@ -154,6 +154,7 @@ Each solution includes:
 | [0733-flood-fill](https://github.com/mohith1306/Leet_code/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/mohith1306/Leet_code/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/mohith1306/Leet_code/tree/master/0792-binary-search) |
+| [0878-shifting-letters](https://github.com/mohith1306/Leet_code/tree/master/0878-shifting-letters) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +224,7 @@ Each solution includes:
 | [0742-to-lower-case](https://github.com/mohith1306/Leet_code/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/mohith1306/Leet_code/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
+| [0878-shifting-letters](https://github.com/mohith1306/Leet_code/tree/master/0878-shifting-letters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -544,6 +546,7 @@ Each solution includes:
 | [0209-minimum-size-subarray-sum](https://github.com/mohith1306/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mohith1306/Leet_code/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/mohith1306/Leet_code/tree/master/0724-find-pivot-index) |
+| [0878-shifting-letters](https://github.com/mohith1306/Leet_code/tree/master/0878-shifting-letters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
