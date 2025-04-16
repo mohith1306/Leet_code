@@ -137,6 +137,7 @@ Each solution includes:
 | [0322-coin-change](https://github.com/mohith1306/Leet_code/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/mohith1306/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/mohith1306/Leet_code/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -269,6 +270,7 @@ Each solution includes:
 | [0233-number-of-digit-one](https://github.com/mohith1306/Leet_code/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/mohith1306/Leet_code/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/mohith1306/Leet_code/tree/master/0416-partition-equal-subset-sum) |
 ## Greedy
 |  |
 | ------- |
