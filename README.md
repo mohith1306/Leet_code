@@ -126,6 +126,7 @@ Each solution includes:
 | [0238-product-of-array-except-self](https://github.com/mohith1306/Leet_code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mohith1306/Leet_code/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/mohith1306/Leet_code/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -323,6 +324,7 @@ Each solution includes:
 | [0137-single-number-ii](https://github.com/mohith1306/Leet_code/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/mohith1306/Leet_code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/mohith1306/Leet_code/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/mohith1306/Leet_code/tree/master/0260-single-number-iii) |
 ## Memoization
 |  |
 | ------- |
