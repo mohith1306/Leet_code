@@ -39,6 +39,7 @@ Each solution includes:
 | [0160-intersection-of-two-linked-lists](https://github.com/mohith1306/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/mohith1306/Leet_code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Each solution includes:
 | [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/mohith1306/Leet_code/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/mohith1306/Leet_code/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -212,6 +214,7 @@ Each solution includes:
 | [0165-compare-version-numbers](https://github.com/mohith1306/Leet_code/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohith1306/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mohith1306/Leet_code/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -269,6 +272,7 @@ Each solution includes:
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohith1306/Leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mohith1306/Leet_code/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
