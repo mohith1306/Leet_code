@@ -61,6 +61,7 @@ Each solution includes:
 | [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/mohith1306/Leet_code/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/mohith1306/Leet_code/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/mohith1306/Leet_code/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -296,6 +297,7 @@ Each solution includes:
 | [0054-spiral-matrix](https://github.com/mohith1306/Leet_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/mohith1306/Leet_code/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/mohith1306/Leet_code/tree/master/0258-add-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -437,4 +439,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohith1306/Leet_code/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mohith1306/Leet_code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
