@@ -427,6 +427,7 @@ Each solution includes:
 | [0257-binary-tree-paths](https://github.com/mohith1306/Leet_code/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/mohith1306/Leet_code/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -465,6 +466,7 @@ Each solution includes:
 | [0257-binary-tree-paths](https://github.com/mohith1306/Leet_code/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/mohith1306/Leet_code/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -472,6 +474,7 @@ Each solution includes:
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/mohith1306/Leet_code/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
