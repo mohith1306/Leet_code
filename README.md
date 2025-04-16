@@ -196,6 +196,7 @@ Each solution includes:
 | [0392-is-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/mohith1306/Leet_code/tree/master/0443-string-compression) |
 ## Sliding Window
 |  |
 | ------- |
@@ -260,6 +261,7 @@ Each solution includes:
 | [0345-reverse-vowels-of-a-string](https://github.com/mohith1306/Leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mohith1306/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/mohith1306/Leet_code/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
