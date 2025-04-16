@@ -184,6 +184,7 @@ Each solution includes:
 | [0242-valid-anagram](https://github.com/mohith1306/Leet_code/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mohith1306/Leet_code/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/mohith1306/Leet_code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mohith1306/Leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -243,6 +244,7 @@ Each solution includes:
 | [0283-move-zeroes](https://github.com/mohith1306/Leet_code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohith1306/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/mohith1306/Leet_code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mohith1306/Leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
