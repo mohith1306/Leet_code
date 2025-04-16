@@ -129,6 +129,7 @@ Each solution includes:
 | [0240-search-a-2d-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/mohith1306/Leet_code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mohith1306/Leet_code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/mohith1306/Leet_code/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +232,7 @@ Each solution includes:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohith1306/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mohith1306/Leet_code/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/mohith1306/Leet_code/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
