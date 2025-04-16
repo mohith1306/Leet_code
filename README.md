@@ -274,6 +274,7 @@ Each solution includes:
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohith1306/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/mohith1306/Leet_code/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/mohith1306/Leet_code/tree/master/0386-lexicographical-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -391,6 +392,7 @@ Each solution includes:
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mohith1306/Leet_code/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/mohith1306/Leet_code/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
