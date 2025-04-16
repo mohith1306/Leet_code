@@ -222,6 +222,7 @@ Each solution includes:
 | [0567-permutation-in-string](https://github.com/mohith1306/Leet_code/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/mohith1306/Leet_code/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/mohith1306/Leet_code/tree/master/0782-jewels-and-stones) |
+| [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -293,6 +294,7 @@ Each solution includes:
 | [0443-string-compression](https://github.com/mohith1306/Leet_code/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mohith1306/Leet_code/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/mohith1306/Leet_code/tree/master/0633-sum-of-square-numbers) |
+| [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -370,6 +372,7 @@ Each solution includes:
 | [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/mohith1306/Leet_code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mohith1306/Leet_code/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
@@ -384,6 +387,7 @@ Each solution includes:
 | [0258-add-digits](https://github.com/mohith1306/Leet_code/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/mohith1306/Leet_code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mohith1306/Leet_code/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
 ## Matrix
 |  |
 | ------- |
