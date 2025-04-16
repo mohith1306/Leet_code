@@ -432,6 +432,7 @@ Each solution includes:
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mohith1306/Leet_code/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/mohith1306/Leet_code/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/mohith1306/Leet_code/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -469,11 +470,13 @@ Each solution includes:
 | [0207-course-schedule](https://github.com/mohith1306/Leet_code/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/mohith1306/Leet_code/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/mohith1306/Leet_code/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/mohith1306/Leet_code/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohith1306/Leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/mohith1306/Leet_code/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/mohith1306/Leet_code/tree/master/0547-number-of-provinces) |
 ## Design
 |  |
 | ------- |
@@ -490,6 +493,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mohith1306/Leet_code/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/mohith1306/Leet_code/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
