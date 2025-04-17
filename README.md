@@ -225,6 +225,7 @@ Each solution includes:
 | [0468-validate-ip-address](https://github.com/mohith1306/Leet_code/tree/master/0468-validate-ip-address) |
 | [0564-find-the-closest-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mohith1306/Leet_code/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/mohith1306/Leet_code/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/mohith1306/Leet_code/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/mohith1306/Leet_code/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
@@ -324,6 +325,7 @@ Each solution includes:
 | [0494-target-sum](https://github.com/mohith1306/Leet_code/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/mohith1306/Leet_code/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/mohith1306/Leet_code/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/mohith1306/Leet_code/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/mohith1306/Leet_code/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -332,6 +334,7 @@ Each solution includes:
 | [0055-jump-game](https://github.com/mohith1306/Leet_code/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/mohith1306/Leet_code/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/mohith1306/Leet_code/tree/master/0890-lemonade-change) |
 ## Trie
 |  |
@@ -381,6 +384,7 @@ Each solution includes:
 | [0224-basic-calculator](https://github.com/mohith1306/Leet_code/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/mohith1306/Leet_code/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/mohith1306/Leet_code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mohith1306/Leet_code/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
