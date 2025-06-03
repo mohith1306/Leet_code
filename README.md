@@ -123,6 +123,7 @@ Each solution includes:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohith1306/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mohith1306/Leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/mohith1306/Leet_code/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/mohith1306/Leet_code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/mohith1306/Leet_code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mohith1306/Leet_code/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohith1306/Leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -339,6 +340,7 @@ Each solution includes:
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohith1306/Leet_code/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/mohith1306/Leet_code/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/mohith1306/Leet_code/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/mohith1306/Leet_code/tree/master/0678-valid-parenthesis-string) |
