@@ -70,6 +70,7 @@ Each solution includes:
 | [0633-sum-of-square-numbers](https://github.com/mohith1306/Leet_code/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/mohith1306/Leet_code/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/mohith1306/Leet_code/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/mohith1306/Leet_code/tree/master/1448-maximum-69-number) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohith1306/Leet_code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/mohith1306/Leet_code/tree/master/3567-convert-date-to-binary) |
 ## Recursion
@@ -349,6 +350,7 @@ Each solution includes:
 | [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/mohith1306/Leet_code/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/mohith1306/Leet_code/tree/master/0890-lemonade-change) |
+| [1448-maximum-69-number](https://github.com/mohith1306/Leet_code/tree/master/1448-maximum-69-number) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mohith1306/Leet_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Trie
 |  |
