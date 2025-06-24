@@ -165,6 +165,7 @@ Each solution includes:
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohith1306/Leet_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2048-build-array-from-permutation](https://github.com/mohith1306/Leet_code/tree/master/2048-build-array-from-permutation) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mohith1306/Leet_code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/mohith1306/Leet_code/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
 |  |
@@ -319,6 +320,7 @@ Each solution includes:
 | [0567-permutation-in-string](https://github.com/mohith1306/Leet_code/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/mohith1306/Leet_code/tree/master/0633-sum-of-square-numbers) |
 | [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
