@@ -254,6 +254,7 @@ Each solution includes:
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mohith1306/Leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2465-shifting-letters-ii](https://github.com/mohith1306/Leet_code/tree/master/2465-shifting-letters-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mohith1306/Leet_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/mohith1306/Leet_code/tree/master/3396-valid-word) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohith1306/Leet_code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/mohith1306/Leet_code/tree/master/3567-convert-date-to-binary) |
 ## Sliding Window
