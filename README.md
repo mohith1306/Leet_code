@@ -156,6 +156,7 @@ Each solution includes:
 | [0455-assign-cookies](https://github.com/mohith1306/Leet_code/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/mohith1306/Leet_code/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/mohith1306/Leet_code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mohith1306/Leet_code/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/mohith1306/Leet_code/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/mohith1306/Leet_code/tree/master/0542-01-matrix) |
@@ -431,6 +432,7 @@ Each solution includes:
 | [0234-palindrome-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/mohith1306/Leet_code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mohith1306/Leet_code/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mohith1306/Leet_code/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/mohith1306/Leet_code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mohith1306/Leet_code/tree/master/0735-asteroid-collision) |
@@ -660,6 +662,7 @@ Each solution includes:
 | ------- |
 | [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/mohith1306/Leet_code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mohith1306/Leet_code/tree/master/0503-next-greater-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
