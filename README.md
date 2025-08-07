@@ -174,6 +174,7 @@ Each solution includes:
 | [0940-fruit-into-baskets](https://github.com/mohith1306/Leet_code/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/mohith1306/Leet_code/tree/master/1603-running-sum-of-1d-array) |
+| [1803-average-waiting-time](https://github.com/mohith1306/Leet_code/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohith1306/Leet_code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/mohith1306/Leet_code/tree/master/2048-build-array-from-permutation) |
@@ -478,6 +479,7 @@ Each solution includes:
 | [0682-baseball-game](https://github.com/mohith1306/Leet_code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mohith1306/Leet_code/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
+| [1803-average-waiting-time](https://github.com/mohith1306/Leet_code/tree/master/1803-average-waiting-time) |
 | [2048-build-array-from-permutation](https://github.com/mohith1306/Leet_code/tree/master/2048-build-array-from-permutation) |
 | [2228-watering-plants-ii](https://github.com/mohith1306/Leet_code/tree/master/2228-watering-plants-ii) |
 ## Matrix
