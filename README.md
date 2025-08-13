@@ -65,6 +65,7 @@ Each solution includes:
 | [0233-number-of-digit-one](https://github.com/mohith1306/Leet_code/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/mohith1306/Leet_code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mohith1306/Leet_code/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/mohith1306/Leet_code/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/mohith1306/Leet_code/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/mohith1306/Leet_code/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0564-find-the-closest-palindrome) |
@@ -378,6 +379,7 @@ Each solution includes:
 | [0198-house-robber](https://github.com/mohith1306/Leet_code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mohith1306/Leet_code/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/mohith1306/Leet_code/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/mohith1306/Leet_code/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/mohith1306/Leet_code/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mohith1306/Leet_code/tree/master/0416-partition-equal-subset-sum) |
@@ -605,6 +607,7 @@ Each solution includes:
 | [0199-binary-tree-right-side-view](https://github.com/mohith1306/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/mohith1306/Leet_code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohith1306/Leet_code/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/mohith1306/Leet_code/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/mohith1306/Leet_code/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/mohith1306/Leet_code/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mohith1306/Leet_code/tree/master/0547-number-of-provinces) |
