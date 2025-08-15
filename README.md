@@ -67,6 +67,7 @@ Each solution includes:
 | [0268-missing-number](https://github.com/mohith1306/Leet_code/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/mohith1306/Leet_code/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/mohith1306/Leet_code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mohith1306/Leet_code/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/mohith1306/Leet_code/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0564-find-the-closest-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/mohith1306/Leet_code/tree/master/0633-sum-of-square-numbers) |
@@ -89,6 +90,7 @@ Each solution includes:
 | [0233-number-of-digit-one](https://github.com/mohith1306/Leet_code/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/mohith1306/Leet_code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mohith1306/Leet_code/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/mohith1306/Leet_code/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -523,6 +525,7 @@ Each solution includes:
 | [0260-single-number-iii](https://github.com/mohith1306/Leet_code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mohith1306/Leet_code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohith1306/Leet_code/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/mohith1306/Leet_code/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/mohith1306/Leet_code/tree/master/0476-number-complement) |
 ## Memoization
 |  |
