@@ -158,6 +158,7 @@ Each solution includes:
 | [0334-increasing-triplet-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/mohith1306/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/mohith1306/Leet_code/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/mohith1306/Leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mohith1306/Leet_code/tree/master/0455-assign-cookies) |
@@ -391,6 +392,7 @@ Each solution includes:
 | [0322-coin-change](https://github.com/mohith1306/Leet_code/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mohith1306/Leet_code/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/mohith1306/Leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/mohith1306/Leet_code/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/mohith1306/Leet_code/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/mohith1306/Leet_code/tree/master/0542-01-matrix) |
@@ -405,6 +407,7 @@ Each solution includes:
 | [0135-candy](https://github.com/mohith1306/Leet_code/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/mohith1306/Leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mohith1306/Leet_code/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/mohith1306/Leet_code/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/mohith1306/Leet_code/tree/master/0890-lemonade-change) |
@@ -436,6 +439,7 @@ Each solution includes:
 | [0242-valid-anagram](https://github.com/mohith1306/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohith1306/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohith1306/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/mohith1306/Leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/mohith1306/Leet_code/tree/master/0455-assign-cookies) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/mohith1306/Leet_code/tree/master/2417-the-latest-time-to-catch-a-bus) |
