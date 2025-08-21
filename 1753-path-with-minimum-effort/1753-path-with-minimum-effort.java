@@ -11,6 +11,7 @@ class Tuple {
 }
 
 class Solution {
+    
     public int minimumEffortPath(int[][] heights) {
         int rows = heights.length;
         int columns = heights[0].length;
