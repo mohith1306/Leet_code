@@ -18,13 +18,22 @@ class Solution {
         }
 
         int count = 0;
-        ListNode curr = head;
+        ListNode first = head;
+        ListNode second = head;
 
-        while (curr != null) {
-            if (set.contains(curr.val) && (curr.next == null || !set.contains(curr.next.val))) {
-                count++;
+        while (second != null) {
+            if (set.contains(second.val)) {
+                second = second.next;
+            } else {
+                if (first != second) {
+                    count++;
+                }
+                second = second.next;
+                first = second;
             }
-            curr = curr.next;
+        }
+        if (first != second) {
+            count++;
         }
 
         return count;
