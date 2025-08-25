@@ -77,6 +77,7 @@ Each solution includes:
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/mohith1306/Leet_code/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohith1306/Leet_code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/mohith1306/Leet_code/tree/master/3567-convert-date-to-binary) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/mohith1306/Leet_code/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3936-split-array-by-prime-indices](https://github.com/mohith1306/Leet_code/tree/master/3936-split-array-by-prime-indices) |
 ## Recursion
 |  |
@@ -201,6 +202,7 @@ Each solution includes:
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohith1306/Leet_code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mohith1306/Leet_code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/mohith1306/Leet_code/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3936-split-array-by-prime-indices](https://github.com/mohith1306/Leet_code/tree/master/3936-split-array-by-prime-indices) |
 ## Hash Table
 |  |
@@ -243,6 +245,7 @@ Each solution includes:
 | [2689-rearranging-fruits](https://github.com/mohith1306/Leet_code/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohith1306/Leet_code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mohith1306/Leet_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/mohith1306/Leet_code/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -680,6 +683,7 @@ Each solution includes:
 | [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mohith1306/Leet_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/mohith1306/Leet_code/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Graph
 |  |
 | ------- |
@@ -735,6 +739,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mohith1306/Leet_code/tree/master/0258-add-digits) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/mohith1306/Leet_code/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3936-split-array-by-prime-indices](https://github.com/mohith1306/Leet_code/tree/master/3936-split-array-by-prime-indices) |
 ## Monotonic Stack
 |  |
