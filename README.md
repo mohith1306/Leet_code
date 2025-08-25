@@ -43,6 +43,7 @@ Each solution includes:
 | [0234-palindrome-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mohith1306/Leet_code/tree/master/0328-odd-even-linked-list) |
+| [0835-linked-list-components](https://github.com/mohith1306/Leet_code/tree/master/0835-linked-list-components) |
 ## Math
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Each solution includes:
 | [0733-flood-fill](https://github.com/mohith1306/Leet_code/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/mohith1306/Leet_code/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/mohith1306/Leet_code/tree/master/0792-binary-search) |
+| [0835-linked-list-components](https://github.com/mohith1306/Leet_code/tree/master/0835-linked-list-components) |
 | [0878-shifting-letters](https://github.com/mohith1306/Leet_code/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/mohith1306/Leet_code/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohith1306/Leet_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -235,6 +237,7 @@ Each solution includes:
 | [0496-next-greater-element-i](https://github.com/mohith1306/Leet_code/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/mohith1306/Leet_code/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/mohith1306/Leet_code/tree/master/0782-jewels-and-stones) |
+| [0835-linked-list-components](https://github.com/mohith1306/Leet_code/tree/master/0835-linked-list-components) |
 | [0940-fruit-into-baskets](https://github.com/mohith1306/Leet_code/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
