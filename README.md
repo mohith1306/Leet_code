@@ -202,6 +202,7 @@ Each solution includes:
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohith1306/Leet_code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/mohith1306/Leet_code/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohith1306/Leet_code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mohith1306/Leet_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mohith1306/Leet_code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/mohith1306/Leet_code/tree/master/3914-check-if-any-element-has-prime-frequency) |
