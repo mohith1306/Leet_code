@@ -202,6 +202,7 @@ Each solution includes:
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohith1306/Leet_code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/mohith1306/Leet_code/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohith1306/Leet_code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2725-mice-and-cheese](https://github.com/mohith1306/Leet_code/tree/master/2725-mice-and-cheese) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mohith1306/Leet_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mohith1306/Leet_code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -434,6 +435,7 @@ Each solution includes:
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/mohith1306/Leet_code/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohith1306/Leet_code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/mohith1306/Leet_code/tree/master/2689-rearranging-fruits) |
+| [2725-mice-and-cheese](https://github.com/mohith1306/Leet_code/tree/master/2725-mice-and-cheese) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mohith1306/Leet_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Trie
 |  |
@@ -465,6 +467,7 @@ Each solution includes:
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/mohith1306/Leet_code/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohith1306/Leet_code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/mohith1306/Leet_code/tree/master/2689-rearranging-fruits) |
+| [2725-mice-and-cheese](https://github.com/mohith1306/Leet_code/tree/master/2725-mice-and-cheese) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mohith1306/Leet_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Backtracking
 |  |
@@ -724,6 +727,7 @@ Each solution includes:
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohith1306/Leet_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2725-mice-and-cheese](https://github.com/mohith1306/Leet_code/tree/master/2725-mice-and-cheese) |
 ## Quickselect
 |  |
 | ------- |
