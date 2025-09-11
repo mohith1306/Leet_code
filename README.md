@@ -74,6 +74,7 @@ Each solution includes:
 | [0633-sum-of-square-numbers](https://github.com/mohith1306/Leet_code/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/mohith1306/Leet_code/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/mohith1306/Leet_code/tree/master/1013-fibonacci-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mohith1306/Leet_code/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/mohith1306/Leet_code/tree/master/1448-maximum-69-number) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/mohith1306/Leet_code/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mohith1306/Leet_code/tree/master/3279-alice-and-bob-playing-flower-game) |
