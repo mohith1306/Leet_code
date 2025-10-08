@@ -201,6 +201,7 @@ Each solution includes:
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mohith1306/Leet_code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2388-replace-elements-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/2388-replace-elements-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mohith1306/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/mohith1306/Leet_code/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/mohith1306/Leet_code/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2465-shifting-letters-ii](https://github.com/mohith1306/Leet_code/tree/master/2465-shifting-letters-ii) |
@@ -351,6 +352,7 @@ Each solution includes:
 | [0792-binary-search](https://github.com/mohith1306/Leet_code/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohith1306/Leet_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mohith1306/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/mohith1306/Leet_code/tree/master/2417-the-latest-time-to-catch-a-bus) |
 ## Divide and Conquer
 |  |
@@ -400,6 +402,7 @@ Each solution includes:
 | [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
 | [2228-watering-plants-ii](https://github.com/mohith1306/Leet_code/tree/master/2228-watering-plants-ii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mohith1306/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/mohith1306/Leet_code/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohith1306/Leet_code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohith1306/Leet_code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -479,6 +482,7 @@ Each solution includes:
 | [0455-assign-cookies](https://github.com/mohith1306/Leet_code/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mohith1306/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/mohith1306/Leet_code/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohith1306/Leet_code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/mohith1306/Leet_code/tree/master/2689-rearranging-fruits) |
