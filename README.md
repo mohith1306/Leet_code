@@ -798,4 +798,8 @@ Each solution includes:
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/3462-vowels-game-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/mohith1306/Leet_code/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
