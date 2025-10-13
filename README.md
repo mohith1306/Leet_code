@@ -188,6 +188,7 @@ Each solution includes:
 | [0940-fruit-into-baskets](https://github.com/mohith1306/Leet_code/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mohith1306/Leet_code/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohith1306/Leet_code/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohith1306/Leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -252,6 +253,7 @@ Each solution includes:
 | [0782-jewels-and-stones](https://github.com/mohith1306/Leet_code/tree/master/0782-jewels-and-stones) |
 | [0835-linked-list-components](https://github.com/mohith1306/Leet_code/tree/master/0835-linked-list-components) |
 | [0940-fruit-into-baskets](https://github.com/mohith1306/Leet_code/tree/master/0940-fruit-into-baskets) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohith1306/Leet_code/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -308,6 +310,7 @@ Each solution includes:
 | [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/mohith1306/Leet_code/tree/master/0878-shifting-letters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohith1306/Leet_code/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mohith1306/Leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mohith1306/Leet_code/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -490,6 +493,7 @@ Each solution includes:
 | [0455-assign-cookies](https://github.com/mohith1306/Leet_code/tree/master/0455-assign-cookies) |
 | [0853-most-profit-assigning-work](https://github.com/mohith1306/Leet_code/tree/master/0853-most-profit-assigning-work) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mohith1306/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/mohith1306/Leet_code/tree/master/2417-the-latest-time-to-catch-a-bus) |
