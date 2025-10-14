@@ -219,6 +219,7 @@ Each solution includes:
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mohith1306/Leet_code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mohith1306/Leet_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mohith1306/Leet_code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/mohith1306/Leet_code/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/mohith1306/Leet_code/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3936-split-array-by-prime-indices](https://github.com/mohith1306/Leet_code/tree/master/3936-split-array-by-prime-indices) |
