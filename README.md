@@ -78,6 +78,7 @@ Each solution includes:
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mohith1306/Leet_code/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/mohith1306/Leet_code/tree/master/1448-maximum-69-number) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mohith1306/Leet_code/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/mohith1306/Leet_code/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mohith1306/Leet_code/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -199,6 +200,7 @@ Each solution includes:
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
 | [1803-average-waiting-time](https://github.com/mohith1306/Leet_code/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohith1306/Leet_code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/mohith1306/Leet_code/tree/master/2048-build-array-from-permutation) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mohith1306/Leet_code/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
@@ -262,6 +264,7 @@ Each solution includes:
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohith1306/Leet_code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mohith1306/Leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mohith1306/Leet_code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -738,6 +741,7 @@ Each solution includes:
 | [0383-ransom-note](https://github.com/mohith1306/Leet_code/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mohith1306/Leet_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mohith1306/Leet_code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/mohith1306/Leet_code/tree/master/3914-check-if-any-element-has-prime-frequency) |
