@@ -212,6 +212,7 @@ Each solution includes:
 | [2228-watering-plants-ii](https://github.com/mohith1306/Leet_code/tree/master/2228-watering-plants-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mohith1306/Leet_code/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mohith1306/Leet_code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/mohith1306/Leet_code/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2388-replace-elements-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mohith1306/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -474,6 +475,7 @@ Each solution includes:
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/mohith1306/Leet_code/tree/master/1448-maximum-69-number) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mohith1306/Leet_code/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/mohith1306/Leet_code/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/mohith1306/Leet_code/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohith1306/Leet_code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/mohith1306/Leet_code/tree/master/2689-rearranging-fruits) |
@@ -786,6 +788,7 @@ Each solution includes:
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mohith1306/Leet_code/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/mohith1306/Leet_code/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mohith1306/Leet_code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2725-mice-and-cheese](https://github.com/mohith1306/Leet_code/tree/master/2725-mice-and-cheese) |
 ## Quickselect
