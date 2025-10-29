@@ -204,6 +204,7 @@ Each solution includes:
 | [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohith1306/Leet_code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/mohith1306/Leet_code/tree/master/2048-build-array-from-permutation) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/mohith1306/Leet_code/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mohith1306/Leet_code/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2211-k-radius-subarray-averages](https://github.com/mohith1306/Leet_code/tree/master/2211-k-radius-subarray-averages) |
@@ -472,6 +473,7 @@ Each solution includes:
 | [0890-lemonade-change](https://github.com/mohith1306/Leet_code/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/mohith1306/Leet_code/tree/master/1448-maximum-69-number) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/mohith1306/Leet_code/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/mohith1306/Leet_code/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohith1306/Leet_code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/mohith1306/Leet_code/tree/master/2689-rearranging-fruits) |
@@ -782,6 +784,7 @@ Each solution includes:
 | [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohith1306/Leet_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/mohith1306/Leet_code/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mohith1306/Leet_code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2725-mice-and-cheese](https://github.com/mohith1306/Leet_code/tree/master/2725-mice-and-cheese) |
