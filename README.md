@@ -224,6 +224,7 @@ Each solution includes:
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/mohith1306/Leet_code/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2465-shifting-letters-ii](https://github.com/mohith1306/Leet_code/tree/master/2465-shifting-letters-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohith1306/Leet_code/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2529-range-product-queries-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/mohith1306/Leet_code/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mohith1306/Leet_code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohith1306/Leet_code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -633,6 +634,7 @@ Each solution includes:
 | [0287-find-the-duplicate-number](https://github.com/mohith1306/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/mohith1306/Leet_code/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/mohith1306/Leet_code/tree/master/0476-number-complement) |
+| [2529-range-product-queries-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2529-range-product-queries-of-powers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/mohith1306/Leet_code/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
@@ -795,6 +797,7 @@ Each solution includes:
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohith1306/Leet_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1603-running-sum-of-1d-array](https://github.com/mohith1306/Leet_code/tree/master/1603-running-sum-of-1d-array) |
 | [2465-shifting-letters-ii](https://github.com/mohith1306/Leet_code/tree/master/2465-shifting-letters-ii) |
+| [2529-range-product-queries-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2529-range-product-queries-of-powers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
