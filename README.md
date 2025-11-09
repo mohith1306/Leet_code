@@ -81,6 +81,7 @@ Each solution includes:
 | [1448-maximum-69-number](https://github.com/mohith1306/Leet_code/tree/master/1448-maximum-69-number) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mohith1306/Leet_code/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/mohith1306/Leet_code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/mohith1306/Leet_code/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mohith1306/Leet_code/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/3462-vowels-game-in-a-string) |
@@ -588,6 +589,7 @@ Each solution includes:
 | [1803-average-waiting-time](https://github.com/mohith1306/Leet_code/tree/master/1803-average-waiting-time) |
 | [2048-build-array-from-permutation](https://github.com/mohith1306/Leet_code/tree/master/2048-build-array-from-permutation) |
 | [2228-watering-plants-ii](https://github.com/mohith1306/Leet_code/tree/master/2228-watering-plants-ii) |
+| [2288-count-operations-to-obtain-zero](https://github.com/mohith1306/Leet_code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mohith1306/Leet_code/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2388-replace-elements-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/2388-replace-elements-in-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mohith1306/Leet_code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
