@@ -184,6 +184,7 @@ Each solution includes:
 | [0540-single-element-in-a-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/mohith1306/Leet_code/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/mohith1306/Leet_code/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/mohith1306/Leet_code/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/mohith1306/Leet_code/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/mohith1306/Leet_code/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/mohith1306/Leet_code/tree/master/0735-asteroid-collision) |
