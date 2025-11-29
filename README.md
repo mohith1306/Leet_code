@@ -80,6 +80,7 @@ Each solution includes:
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mohith1306/Leet_code/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/mohith1306/Leet_code/tree/master/1448-maximum-69-number) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mohith1306/Leet_code/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mohith1306/Leet_code/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mohith1306/Leet_code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/mohith1306/Leet_code/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -213,6 +214,7 @@ Each solution includes:
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mohith1306/Leet_code/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mohith1306/Leet_code/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mohith1306/Leet_code/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2211-k-radius-subarray-averages](https://github.com/mohith1306/Leet_code/tree/master/2211-k-radius-subarray-averages) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mohith1306/Leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2228-watering-plants-ii](https://github.com/mohith1306/Leet_code/tree/master/2228-watering-plants-ii) |
@@ -575,6 +577,7 @@ Each solution includes:
 | [0682-baseball-game](https://github.com/mohith1306/Leet_code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mohith1306/Leet_code/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mohith1306/Leet_code/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## String Matching
 |  |
 | ------- |
@@ -838,6 +841,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mohith1306/Leet_code/tree/master/0258-add-digits) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/mohith1306/Leet_code/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mohith1306/Leet_code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/mohith1306/Leet_code/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3936-split-array-by-prime-indices](https://github.com/mohith1306/Leet_code/tree/master/3936-split-array-by-prime-indices) |
