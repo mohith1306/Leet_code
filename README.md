@@ -85,6 +85,7 @@ Each solution includes:
 | [2288-count-operations-to-obtain-zero](https://github.com/mohith1306/Leet_code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/mohith1306/Leet_code/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mohith1306/Leet_code/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3433-count-mentions-per-user](https://github.com/mohith1306/Leet_code/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohith1306/Leet_code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -237,6 +238,7 @@ Each solution includes:
 | [2725-mice-and-cheese](https://github.com/mohith1306/Leet_code/tree/master/2725-mice-and-cheese) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mohith1306/Leet_code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mohith1306/Leet_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3433-count-mentions-per-user](https://github.com/mohith1306/Leet_code/tree/master/3433-count-mentions-per-user) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mohith1306/Leet_code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mohith1306/Leet_code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -547,6 +549,7 @@ Each solution includes:
 | [2887-sort-vowels-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mohith1306/Leet_code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mohith1306/Leet_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3433-count-mentions-per-user](https://github.com/mohith1306/Leet_code/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/mohith1306/Leet_code/tree/master/3606-coupon-code-validator) |
 ## Backtracking
 |  |
@@ -606,6 +609,7 @@ Each solution includes:
 | [2388-replace-elements-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/2388-replace-elements-in-an-array) |
 | [2483-task-scheduler-ii](https://github.com/mohith1306/Leet_code/tree/master/2483-task-scheduler-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mohith1306/Leet_code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3433-count-mentions-per-user](https://github.com/mohith1306/Leet_code/tree/master/3433-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mohith1306/Leet_code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
