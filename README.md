@@ -198,6 +198,7 @@ Each solution includes:
 | [0890-lemonade-change](https://github.com/mohith1306/Leet_code/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohith1306/Leet_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/mohith1306/Leet_code/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/mohith1306/Leet_code/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mohith1306/Leet_code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -343,6 +344,7 @@ Each solution includes:
 | [0782-jewels-and-stones](https://github.com/mohith1306/Leet_code/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/mohith1306/Leet_code/tree/master/0878-shifting-letters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/mohith1306/Leet_code/tree/master/0944-delete-columns-to-make-sorted) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohith1306/Leet_code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohith1306/Leet_code/tree/master/1700-minimum-time-to-make-rope-colorful) |
