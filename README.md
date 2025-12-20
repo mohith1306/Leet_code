@@ -881,4 +881,5 @@ Each solution includes:
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/mohith1306/Leet_code/tree/master/0176-second-highest-salary) |
+| [0262-trips-and-users](https://github.com/mohith1306/Leet_code/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
