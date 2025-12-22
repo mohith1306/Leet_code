@@ -805,6 +805,7 @@ Each solution includes:
 | [0547-number-of-provinces](https://github.com/mohith1306/Leet_code/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/mohith1306/Leet_code/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/mohith1306/Leet_code/tree/master/0871-keys-and-rooms) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/mohith1306/Leet_code/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mohith1306/Leet_code/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mohith1306/Leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
