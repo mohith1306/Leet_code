@@ -204,6 +204,7 @@ Each solution includes:
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mohith1306/Leet_code/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mohith1306/Leet_code/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohith1306/Leet_code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohith1306/Leet_code/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -407,6 +408,7 @@ Each solution includes:
 | [0792-binary-search](https://github.com/mohith1306/Leet_code/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/mohith1306/Leet_code/tree/master/0853-most-profit-assigning-work) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohith1306/Leet_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohith1306/Leet_code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mohith1306/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/mohith1306/Leet_code/tree/master/2417-the-latest-time-to-catch-a-bus) |
@@ -638,6 +640,7 @@ Each solution includes:
 | [0542-01-matrix](https://github.com/mohith1306/Leet_code/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mohith1306/Leet_code/tree/master/0733-flood-fill) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mohith1306/Leet_code/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohith1306/Leet_code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mohith1306/Leet_code/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mohith1306/Leet_code/tree/master/2244-number-of-laser-beams-in-a-bank) |
