@@ -72,6 +72,7 @@ Each solution includes:
 | [0326-power-of-three](https://github.com/mohith1306/Leet_code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohith1306/Leet_code/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/mohith1306/Leet_code/tree/master/0412-fizz-buzz) |
+| [0539-minimum-time-difference](https://github.com/mohith1306/Leet_code/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0564-find-the-closest-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/mohith1306/Leet_code/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/mohith1306/Leet_code/tree/master/0728-self-dividing-numbers) |
@@ -186,6 +187,7 @@ Each solution includes:
 | [0496-next-greater-element-i](https://github.com/mohith1306/Leet_code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohith1306/Leet_code/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/mohith1306/Leet_code/tree/master/0518-coin-change-ii) |
+| [0539-minimum-time-difference](https://github.com/mohith1306/Leet_code/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohith1306/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/mohith1306/Leet_code/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/mohith1306/Leet_code/tree/master/0682-baseball-game) |
@@ -347,6 +349,7 @@ Each solution includes:
 | [0443-string-compression](https://github.com/mohith1306/Leet_code/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/mohith1306/Leet_code/tree/master/0468-validate-ip-address) |
+| [0539-minimum-time-difference](https://github.com/mohith1306/Leet_code/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mohith1306/Leet_code/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/mohith1306/Leet_code/tree/master/0678-valid-parenthesis-string) |
@@ -555,6 +558,7 @@ Each solution includes:
 | [0435-non-overlapping-intervals](https://github.com/mohith1306/Leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/mohith1306/Leet_code/tree/master/0455-assign-cookies) |
+| [0539-minimum-time-difference](https://github.com/mohith1306/Leet_code/tree/master/0539-minimum-time-difference) |
 | [0853-most-profit-assigning-work](https://github.com/mohith1306/Leet_code/tree/master/0853-most-profit-assigning-work) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
