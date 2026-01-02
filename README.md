@@ -202,6 +202,7 @@ Each solution includes:
 | [0940-fruit-into-baskets](https://github.com/mohith1306/Leet_code/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mohith1306/Leet_code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mohith1306/Leet_code/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mohith1306/Leet_code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mohith1306/Leet_code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohith1306/Leet_code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -289,6 +290,7 @@ Each solution includes:
 | [0782-jewels-and-stones](https://github.com/mohith1306/Leet_code/tree/master/0782-jewels-and-stones) |
 | [0835-linked-list-components](https://github.com/mohith1306/Leet_code/tree/master/0835-linked-list-components) |
 | [0940-fruit-into-baskets](https://github.com/mohith1306/Leet_code/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mohith1306/Leet_code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
