@@ -223,6 +223,7 @@ Each solution includes:
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mohith1306/Leet_code/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mohith1306/Leet_code/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mohith1306/Leet_code/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2211-k-radius-subarray-averages](https://github.com/mohith1306/Leet_code/tree/master/2211-k-radius-subarray-averages) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mohith1306/Leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -298,6 +299,7 @@ Each solution includes:
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohith1306/Leet_code/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mohith1306/Leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mohith1306/Leet_code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2388-replace-elements-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/2388-replace-elements-in-an-array) |
@@ -817,6 +819,7 @@ Each solution includes:
 | [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2475-largest-palindromic-number](https://github.com/mohith1306/Leet_code/tree/master/2475-largest-palindromic-number) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mohith1306/Leet_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mohith1306/Leet_code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
