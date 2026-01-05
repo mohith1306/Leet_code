@@ -218,6 +218,7 @@ Each solution includes:
 | [1803-average-waiting-time](https://github.com/mohith1306/Leet_code/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1975-maximum-matrix-sum](https://github.com/mohith1306/Leet_code/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohith1306/Leet_code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/mohith1306/Leet_code/tree/master/2048-build-array-from-permutation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mohith1306/Leet_code/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -524,6 +525,7 @@ Each solution includes:
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/mohith1306/Leet_code/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohith1306/Leet_code/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/mohith1306/Leet_code/tree/master/1975-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mohith1306/Leet_code/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/mohith1306/Leet_code/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/mohith1306/Leet_code/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -660,6 +662,7 @@ Each solution includes:
 | [1171-shortest-path-in-binary-matrix](https://github.com/mohith1306/Leet_code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohith1306/Leet_code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
+| [1975-maximum-matrix-sum](https://github.com/mohith1306/Leet_code/tree/master/1975-maximum-matrix-sum) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mohith1306/Leet_code/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mohith1306/Leet_code/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/mohith1306/Leet_code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
