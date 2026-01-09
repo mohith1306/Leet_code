@@ -294,6 +294,7 @@ Each solution includes:
 | [0567-permutation-in-string](https://github.com/mohith1306/Leet_code/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/mohith1306/Leet_code/tree/master/0782-jewels-and-stones) |
 | [0835-linked-list-components](https://github.com/mohith1306/Leet_code/tree/master/0835-linked-list-components) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mohith1306/Leet_code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/mohith1306/Leet_code/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mohith1306/Leet_code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -725,6 +726,7 @@ Each solution includes:
 | [0662-maximum-width-of-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mohith1306/Leet_code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -750,6 +752,7 @@ Each solution includes:
 | [0662-maximum-width-of-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/mohith1306/Leet_code/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/mohith1306/Leet_code/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mohith1306/Leet_code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/mohith1306/Leet_code/tree/master/0871-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -777,6 +780,7 @@ Each solution includes:
 | [0662-maximum-width-of-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mohith1306/Leet_code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
@@ -806,6 +810,7 @@ Each solution includes:
 | [0662-maximum-width-of-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/mohith1306/Leet_code/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/mohith1306/Leet_code/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mohith1306/Leet_code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/mohith1306/Leet_code/tree/master/0871-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mohith1306/Leet_code/tree/master/1171-shortest-path-in-binary-matrix) |
