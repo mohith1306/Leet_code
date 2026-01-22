@@ -209,6 +209,7 @@ Each solution includes:
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mohith1306/Leet_code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/mohith1306/Leet_code/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
+| [1020-number-of-enclaves](https://github.com/mohith1306/Leet_code/tree/master/1020-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mohith1306/Leet_code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mohith1306/Leet_code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohith1306/Leet_code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -672,6 +673,7 @@ Each solution includes:
 | [0419-battleships-in-a-board](https://github.com/mohith1306/Leet_code/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/mohith1306/Leet_code/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mohith1306/Leet_code/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/mohith1306/Leet_code/tree/master/1020-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mohith1306/Leet_code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohith1306/Leet_code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
@@ -761,6 +763,7 @@ Each solution includes:
 | [0820-find-eventual-safe-states](https://github.com/mohith1306/Leet_code/tree/master/0820-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mohith1306/Leet_code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/mohith1306/Leet_code/tree/master/0871-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/mohith1306/Leet_code/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
@@ -819,6 +822,7 @@ Each solution includes:
 | [0820-find-eventual-safe-states](https://github.com/mohith1306/Leet_code/tree/master/0820-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mohith1306/Leet_code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/mohith1306/Leet_code/tree/master/0871-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/mohith1306/Leet_code/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mohith1306/Leet_code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
@@ -952,4 +956,8 @@ Each solution includes:
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/mohith1306/Leet_code/tree/master/1266-minimum-time-visiting-all-points) |
+## Union-Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/mohith1306/Leet_code/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
