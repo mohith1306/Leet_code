@@ -206,6 +206,7 @@ Each solution includes:
 | [0944-delete-columns-to-make-sorted](https://github.com/mohith1306/Leet_code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mohith1306/Leet_code/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mohith1306/Leet_code/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/mohith1306/Leet_code/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mohith1306/Leet_code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mohith1306/Leet_code/tree/master/1266-minimum-time-visiting-all-points) |
@@ -531,6 +532,7 @@ Each solution includes:
 | [0853-most-profit-assigning-work](https://github.com/mohith1306/Leet_code/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/mohith1306/Leet_code/tree/master/0890-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mohith1306/Leet_code/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/mohith1306/Leet_code/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/mohith1306/Leet_code/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohith1306/Leet_code/tree/master/1700-minimum-time-to-make-rope-colorful) |
