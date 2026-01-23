@@ -279,6 +279,7 @@ Each solution includes:
 | [0049-group-anagrams](https://github.com/mohith1306/Leet_code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mohith1306/Leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/mohith1306/Leet_code/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/mohith1306/Leet_code/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/mohith1306/Leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mohith1306/Leet_code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohith1306/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
@@ -342,6 +343,7 @@ Each solution includes:
 | [0067-add-binary](https://github.com/mohith1306/Leet_code/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/mohith1306/Leet_code/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/mohith1306/Leet_code/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/mohith1306/Leet_code/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/mohith1306/Leet_code/tree/master/0205-isomorphic-strings) |
@@ -809,6 +811,7 @@ Each solution includes:
 | [0102-binary-tree-level-order-traversal](https://github.com/mohith1306/Leet_code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mohith1306/Leet_code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/mohith1306/Leet_code/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/mohith1306/Leet_code/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/mohith1306/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/mohith1306/Leet_code/tree/master/0207-course-schedule) |
