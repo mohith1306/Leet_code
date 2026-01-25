@@ -225,6 +225,7 @@ Each solution includes:
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1975-maximum-matrix-sum](https://github.com/mohith1306/Leet_code/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohith1306/Leet_code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohith1306/Leet_code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/mohith1306/Leet_code/tree/master/2048-build-array-from-permutation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mohith1306/Leet_code/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -406,6 +407,7 @@ Each solution includes:
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohith1306/Leet_code/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohith1306/Leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohith1306/Leet_code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2211-k-radius-subarray-averages](https://github.com/mohith1306/Leet_code/tree/master/2211-k-radius-subarray-averages) |
 ## Binary Search
 |  |
@@ -582,6 +584,7 @@ Each solution includes:
 | [0853-most-profit-assigning-work](https://github.com/mohith1306/Leet_code/tree/master/0853-most-profit-assigning-work) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohith1306/Leet_code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mohith1306/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/mohith1306/Leet_code/tree/master/2402-meeting-rooms-iii) |
