@@ -375,6 +375,7 @@ Each solution includes:
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mohith1306/Leet_code/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1143-longest-common-subsequence](https://github.com/mohith1306/Leet_code/tree/master/1143-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohith1306/Leet_code/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mohith1306/Leet_code/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohith1306/Leet_code/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -517,6 +518,7 @@ Each solution includes:
 | [0678-valid-parenthesis-string](https://github.com/mohith1306/Leet_code/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/mohith1306/Leet_code/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/mohith1306/Leet_code/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mohith1306/Leet_code/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mohith1306/Leet_code/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mohith1306/Leet_code/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohith1306/Leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
