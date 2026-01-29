@@ -221,6 +221,7 @@ Each solution includes:
 | [1603-running-sum-of-1d-array](https://github.com/mohith1306/Leet_code/tree/master/1603-running-sum-of-1d-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohith1306/Leet_code/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/mohith1306/Leet_code/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1803-average-waiting-time](https://github.com/mohith1306/Leet_code/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -485,6 +486,7 @@ Each solution includes:
 | [0633-sum-of-square-numbers](https://github.com/mohith1306/Leet_code/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/mohith1306/Leet_code/tree/master/0853-most-profit-assigning-work) |
 | [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/mohith1306/Leet_code/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [2228-watering-plants-ii](https://github.com/mohith1306/Leet_code/tree/master/2228-watering-plants-ii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mohith1306/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -546,6 +548,7 @@ Each solution includes:
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/mohith1306/Leet_code/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohith1306/Leet_code/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/mohith1306/Leet_code/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1975-maximum-matrix-sum](https://github.com/mohith1306/Leet_code/tree/master/1975-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mohith1306/Leet_code/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/mohith1306/Leet_code/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -643,6 +646,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/mohith1306/Leet_code/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 ## Simulation
 |  |
 | ------- |
