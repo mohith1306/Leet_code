@@ -261,6 +261,7 @@ Each solution includes:
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mohith1306/Leet_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3433-count-mentions-per-user](https://github.com/mohith1306/Leet_code/tree/master/3433-count-mentions-per-user) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mohith1306/Leet_code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3488-closest-equal-element-queries](https://github.com/mohith1306/Leet_code/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mohith1306/Leet_code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohith1306/Leet_code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -321,6 +322,7 @@ Each solution includes:
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mohith1306/Leet_code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohith1306/Leet_code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mohith1306/Leet_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3488-closest-equal-element-queries](https://github.com/mohith1306/Leet_code/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mohith1306/Leet_code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohith1306/Leet_code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/mohith1306/Leet_code/tree/master/3606-coupon-code-validator) |
@@ -439,6 +441,7 @@ Each solution includes:
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mohith1306/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/mohith1306/Leet_code/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [3488-closest-equal-element-queries](https://github.com/mohith1306/Leet_code/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
