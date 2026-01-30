@@ -251,6 +251,7 @@ Each solution includes:
 | [2483-task-scheduler-ii](https://github.com/mohith1306/Leet_code/tree/master/2483-task-scheduler-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohith1306/Leet_code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2529-range-product-queries-of-powers) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/mohith1306/Leet_code/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/mohith1306/Leet_code/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mohith1306/Leet_code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohith1306/Leet_code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -904,6 +905,7 @@ Each solution includes:
 | [2465-shifting-letters-ii](https://github.com/mohith1306/Leet_code/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mohith1306/Leet_code/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2529-range-product-queries-of-powers) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/mohith1306/Leet_code/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
