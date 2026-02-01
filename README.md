@@ -257,6 +257,7 @@ Each solution includes:
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohith1306/Leet_code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2708-maximum-strength-of-a-group](https://github.com/mohith1306/Leet_code/tree/master/2708-maximum-strength-of-a-group) |
 | [2725-mice-and-cheese](https://github.com/mohith1306/Leet_code/tree/master/2725-mice-and-cheese) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mohith1306/Leet_code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mohith1306/Leet_code/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mohith1306/Leet_code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mohith1306/Leet_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -606,6 +607,7 @@ Each solution includes:
 | [2708-maximum-strength-of-a-group](https://github.com/mohith1306/Leet_code/tree/master/2708-maximum-strength-of-a-group) |
 | [2725-mice-and-cheese](https://github.com/mohith1306/Leet_code/tree/master/2725-mice-and-cheese) |
 | [2887-sort-vowels-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/2887-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mohith1306/Leet_code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mohith1306/Leet_code/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mohith1306/Leet_code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mohith1306/Leet_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -972,6 +974,7 @@ Each solution includes:
 |  |
 | ------- |
 | [2708-maximum-strength-of-a-group](https://github.com/mohith1306/Leet_code/tree/master/2708-maximum-strength-of-a-group) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mohith1306/Leet_code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Geometry
 |  |
 | ------- |
