@@ -258,6 +258,7 @@ Each solution includes:
 | [2708-maximum-strength-of-a-group](https://github.com/mohith1306/Leet_code/tree/master/2708-maximum-strength-of-a-group) |
 | [2725-mice-and-cheese](https://github.com/mohith1306/Leet_code/tree/master/2725-mice-and-cheese) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mohith1306/Leet_code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mohith1306/Leet_code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mohith1306/Leet_code/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mohith1306/Leet_code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mohith1306/Leet_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -323,6 +324,7 @@ Each solution includes:
 | [2689-rearranging-fruits](https://github.com/mohith1306/Leet_code/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mohith1306/Leet_code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohith1306/Leet_code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mohith1306/Leet_code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mohith1306/Leet_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3488-closest-equal-element-queries](https://github.com/mohith1306/Leet_code/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mohith1306/Leet_code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -416,6 +418,7 @@ Each solution includes:
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohith1306/Leet_code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2211-k-radius-subarray-averages](https://github.com/mohith1306/Leet_code/tree/master/2211-k-radius-subarray-averages) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mohith1306/Leet_code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -922,6 +925,7 @@ Each solution includes:
 | [2402-meeting-rooms-iii](https://github.com/mohith1306/Leet_code/tree/master/2402-meeting-rooms-iii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mohith1306/Leet_code/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2725-mice-and-cheese](https://github.com/mohith1306/Leet_code/tree/master/2725-mice-and-cheese) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mohith1306/Leet_code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/mohith1306/Leet_code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Quickselect
 |  |
