@@ -271,6 +271,7 @@ Each solution includes:
 | [3606-coupon-code-validator](https://github.com/mohith1306/Leet_code/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/mohith1306/Leet_code/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3637-trionic-array-i](https://github.com/mohith1306/Leet_code/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/mohith1306/Leet_code/tree/master/3640-trionic-array-ii) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/mohith1306/Leet_code/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3936-split-array-by-prime-indices](https://github.com/mohith1306/Leet_code/tree/master/3936-split-array-by-prime-indices) |
@@ -539,6 +540,7 @@ Each solution includes:
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mohith1306/Leet_code/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2708-maximum-strength-of-a-group](https://github.com/mohith1306/Leet_code/tree/master/2708-maximum-strength-of-a-group) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3640-trionic-array-ii](https://github.com/mohith1306/Leet_code/tree/master/3640-trionic-array-ii) |
 ## Greedy
 |  |
 | ------- |
