@@ -271,6 +271,7 @@ Each solution includes:
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohith1306/Leet_code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/mohith1306/Leet_code/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/mohith1306/Leet_code/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/mohith1306/Leet_code/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/mohith1306/Leet_code/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/mohith1306/Leet_code/tree/master/3640-trionic-array-ii) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -422,6 +423,7 @@ Each solution includes:
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohith1306/Leet_code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2211-k-radius-subarray-averages](https://github.com/mohith1306/Leet_code/tree/master/2211-k-radius-subarray-averages) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mohith1306/Leet_code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/mohith1306/Leet_code/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -620,6 +622,7 @@ Each solution includes:
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mohith1306/Leet_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3433-count-mentions-per-user](https://github.com/mohith1306/Leet_code/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/mohith1306/Leet_code/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/mohith1306/Leet_code/tree/master/3634-minimum-removals-to-balance-array) |
 ## Backtracking
 |  |
 | ------- |
