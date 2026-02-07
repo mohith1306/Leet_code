@@ -526,6 +526,7 @@ Each solution includes:
 | [0279-perfect-squares](https://github.com/mohith1306/Leet_code/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/mohith1306/Leet_code/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/mohith1306/Leet_code/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/mohith1306/Leet_code/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mohith1306/Leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/mohith1306/Leet_code/tree/master/0494-target-sum) |
@@ -553,6 +554,7 @@ Each solution includes:
 | [0055-jump-game](https://github.com/mohith1306/Leet_code/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/mohith1306/Leet_code/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/mohith1306/Leet_code/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/mohith1306/Leet_code/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/mohith1306/Leet_code/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/mohith1306/Leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mohith1306/Leet_code/tree/master/0455-assign-cookies) |
@@ -736,6 +738,7 @@ Each solution includes:
 | [0268-missing-number](https://github.com/mohith1306/Leet_code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohith1306/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/mohith1306/Leet_code/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/mohith1306/Leet_code/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/mohith1306/Leet_code/tree/master/0476-number-complement) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mohith1306/Leet_code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2529-range-product-queries-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2529-range-product-queries-of-powers) |
@@ -745,6 +748,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohith1306/Leet_code/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/mohith1306/Leet_code/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/mohith1306/Leet_code/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
