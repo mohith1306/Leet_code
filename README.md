@@ -462,6 +462,7 @@ Each solution includes:
 | [0191-number-of-1-bits](https://github.com/mohith1306/Leet_code/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohith1306/Leet_code/tree/master/0240-search-a-2d-matrix-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/1382-balance-a-binary-search-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Two Pointers
 |  |
@@ -564,6 +565,7 @@ Each solution includes:
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mohith1306/Leet_code/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/mohith1306/Leet_code/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
+| [1382-balance-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/mohith1306/Leet_code/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohith1306/Leet_code/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/mohith1306/Leet_code/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
@@ -774,6 +776,7 @@ Each solution includes:
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mohith1306/Leet_code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -803,6 +806,7 @@ Each solution includes:
 | [1020-number-of-enclaves](https://github.com/mohith1306/Leet_code/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/1382-balance-a-binary-search-tree) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mohith1306/Leet_code/tree/master/2121-find-if-path-exists-in-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -830,6 +834,7 @@ Each solution includes:
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mohith1306/Leet_code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -838,6 +843,7 @@ Each solution includes:
 | [0450-delete-node-in-a-bst](https://github.com/mohith1306/Leet_code/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
