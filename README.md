@@ -217,6 +217,7 @@ Each solution includes:
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohith1306/Leet_code/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mohith1306/Leet_code/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mohith1306/Leet_code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohith1306/Leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/mohith1306/Leet_code/tree/master/1603-running-sum-of-1d-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohith1306/Leet_code/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -713,6 +714,7 @@ Each solution includes:
 | [1020-number-of-enclaves](https://github.com/mohith1306/Leet_code/tree/master/1020-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mohith1306/Leet_code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohith1306/Leet_code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mohith1306/Leet_code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
 | [1975-maximum-matrix-sum](https://github.com/mohith1306/Leet_code/tree/master/1975-maximum-matrix-sum) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mohith1306/Leet_code/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
@@ -807,6 +809,7 @@ Each solution includes:
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mohith1306/Leet_code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mohith1306/Leet_code/tree/master/2121-find-if-path-exists-in-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -869,6 +872,7 @@ Each solution includes:
 | [1020-number-of-enclaves](https://github.com/mohith1306/Leet_code/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mohith1306/Leet_code/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mohith1306/Leet_code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mohith1306/Leet_code/tree/master/2121-find-if-path-exists-in-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -1008,6 +1012,7 @@ Each solution includes:
 |  |
 | ------- |
 | [1020-number-of-enclaves](https://github.com/mohith1306/Leet_code/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mohith1306/Leet_code/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
 | ------- |
