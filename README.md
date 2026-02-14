@@ -549,6 +549,7 @@ Each solution includes:
 | [0542-01-matrix](https://github.com/mohith1306/Leet_code/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/mohith1306/Leet_code/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/mohith1306/Leet_code/tree/master/0678-valid-parenthesis-string) |
+| [0799-champagne-tower](https://github.com/mohith1306/Leet_code/tree/master/0799-champagne-tower) |
 | [1013-fibonacci-number](https://github.com/mohith1306/Leet_code/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/mohith1306/Leet_code/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mohith1306/Leet_code/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
