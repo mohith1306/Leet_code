@@ -656,6 +656,7 @@ Each solution includes:
 | [0078-subsets](https://github.com/mohith1306/Leet_code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mohith1306/Leet_code/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/mohith1306/Leet_code/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/mohith1306/Leet_code/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/mohith1306/Leet_code/tree/master/0494-target-sum) |
 | [2708-maximum-strength-of-a-group](https://github.com/mohith1306/Leet_code/tree/master/2708-maximum-strength-of-a-group) |
 ## Stack
@@ -758,6 +759,7 @@ Each solution includes:
 | [0287-find-the-duplicate-number](https://github.com/mohith1306/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/mohith1306/Leet_code/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/mohith1306/Leet_code/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/mohith1306/Leet_code/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/mohith1306/Leet_code/tree/master/0476-number-complement) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mohith1306/Leet_code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2529-range-product-queries-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2529-range-product-queries-of-powers) |
