@@ -761,6 +761,7 @@ Each solution includes:
 | [0397-integer-replacement](https://github.com/mohith1306/Leet_code/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/mohith1306/Leet_code/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/mohith1306/Leet_code/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/mohith1306/Leet_code/tree/master/0693-binary-number-with-alternating-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mohith1306/Leet_code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2529-range-product-queries-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2529-range-product-queries-of-powers) |
 | [2708-maximum-strength-of-a-group](https://github.com/mohith1306/Leet_code/tree/master/2708-maximum-strength-of-a-group) |
