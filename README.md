@@ -76,6 +76,7 @@ Each solution includes:
 | [0564-find-the-closest-palindrome](https://github.com/mohith1306/Leet_code/tree/master/0564-find-the-closest-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/mohith1306/Leet_code/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/mohith1306/Leet_code/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohith1306/Leet_code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/mohith1306/Leet_code/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mohith1306/Leet_code/tree/master/1266-minimum-time-visiting-all-points) |
@@ -768,6 +769,7 @@ Each solution includes:
 | [0401-binary-watch](https://github.com/mohith1306/Leet_code/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/mohith1306/Leet_code/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mohith1306/Leet_code/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohith1306/Leet_code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mohith1306/Leet_code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2529-range-product-queries-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2529-range-product-queries-of-powers) |
 | [2708-maximum-strength-of-a-group](https://github.com/mohith1306/Leet_code/tree/master/2708-maximum-strength-of-a-group) |
