@@ -319,6 +319,7 @@ Each solution includes:
 | [0940-fruit-into-baskets](https://github.com/mohith1306/Leet_code/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mohith1306/Leet_code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mohith1306/Leet_code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -400,6 +401,7 @@ Each solution includes:
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohith1306/Leet_code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mohith1306/Leet_code/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mohith1306/Leet_code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/mohith1306/Leet_code/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mohith1306/Leet_code/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohith1306/Leet_code/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -771,6 +773,7 @@ Each solution includes:
 | [0693-binary-number-with-alternating-bits](https://github.com/mohith1306/Leet_code/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohith1306/Leet_code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/mohith1306/Leet_code/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mohith1306/Leet_code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mohith1306/Leet_code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2529-range-product-queries-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2529-range-product-queries-of-powers) |
 | [2708-maximum-strength-of-a-group](https://github.com/mohith1306/Leet_code/tree/master/2708-maximum-strength-of-a-group) |
@@ -1063,4 +1066,12 @@ Each solution includes:
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/mohith1306/Leet_code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mohith1306/Leet_code/tree/master/3721-longest-balanced-subarray-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mohith1306/Leet_code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mohith1306/Leet_code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
