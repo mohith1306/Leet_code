@@ -98,6 +98,7 @@ Each solution includes:
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohith1306/Leet_code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/mohith1306/Leet_code/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohith1306/Leet_code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mohith1306/Leet_code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/mohith1306/Leet_code/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mohith1306/Leet_code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/mohith1306/Leet_code/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -424,6 +425,7 @@ Each solution includes:
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohith1306/Leet_code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/mohith1306/Leet_code/tree/master/3567-convert-date-to-binary) |
 | [3606-coupon-code-validator](https://github.com/mohith1306/Leet_code/tree/master/3606-coupon-code-validator) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mohith1306/Leet_code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/mohith1306/Leet_code/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/mohith1306/Leet_code/tree/master/3714-longest-balanced-substring-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mohith1306/Leet_code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -920,6 +922,7 @@ Each solution includes:
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohith1306/Leet_code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mohith1306/Leet_code/tree/master/2121-find-if-path-exists-in-graph) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mohith1306/Leet_code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
 |  |
@@ -1066,6 +1069,7 @@ Each solution includes:
 | ------- |
 | [1020-number-of-enclaves](https://github.com/mohith1306/Leet_code/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohith1306/Leet_code/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mohith1306/Leet_code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1089,4 +1093,8 @@ Each solution includes:
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mohith1306/Leet_code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mohith1306/Leet_code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
