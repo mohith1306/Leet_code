@@ -223,6 +223,7 @@ Each solution includes:
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohith1306/Leet_code/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mohith1306/Leet_code/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mohith1306/Leet_code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohith1306/Leet_code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohith1306/Leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/mohith1306/Leet_code/tree/master/1603-running-sum-of-1d-array) |
@@ -598,6 +599,7 @@ Each solution includes:
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/mohith1306/Leet_code/tree/master/1448-maximum-69-number) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mohith1306/Leet_code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mohith1306/Leet_code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohith1306/Leet_code/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/mohith1306/Leet_code/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
@@ -750,6 +752,7 @@ Each solution includes:
 | [1020-number-of-enclaves](https://github.com/mohith1306/Leet_code/tree/master/1020-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/mohith1306/Leet_code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohith1306/Leet_code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mohith1306/Leet_code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohith1306/Leet_code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
 | [1975-maximum-matrix-sum](https://github.com/mohith1306/Leet_code/tree/master/1975-maximum-matrix-sum) |
