@@ -119,6 +119,7 @@ Each solution includes:
 | [0326-power-of-three](https://github.com/mohith1306/Leet_code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohith1306/Leet_code/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/mohith1306/Leet_code/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mohith1306/Leet_code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohith1306/Leet_code/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
@@ -410,6 +411,7 @@ Each solution includes:
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mohith1306/Leet_code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mohith1306/Leet_code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/mohith1306/Leet_code/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mohith1306/Leet_code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mohith1306/Leet_code/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mohith1306/Leet_code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohith1306/Leet_code/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -720,6 +722,7 @@ Each solution includes:
 | [0735-asteroid-collision](https://github.com/mohith1306/Leet_code/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mohith1306/Leet_code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mohith1306/Leet_code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mohith1306/Leet_code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/mohith1306/Leet_code/tree/master/1803-average-waiting-time) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohith1306/Leet_code/tree/master/1823-find-the-winner-of-the-circular-game) |
