@@ -416,6 +416,7 @@ Each solution includes:
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mohith1306/Leet_code/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mohith1306/Leet_code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohith1306/Leet_code/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/mohith1306/Leet_code/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mohith1306/Leet_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mohith1306/Leet_code/tree/master/2244-number-of-laser-beams-in-a-bank) |
