@@ -236,6 +236,7 @@ Each solution includes:
 | [1803-average-waiting-time](https://github.com/mohith1306/Leet_code/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohith1306/Leet_code/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/mohith1306/Leet_code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1975-maximum-matrix-sum](https://github.com/mohith1306/Leet_code/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohith1306/Leet_code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -480,6 +481,7 @@ Each solution includes:
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohith1306/Leet_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohith1306/Leet_code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/mohith1306/Leet_code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mohith1306/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/mohith1306/Leet_code/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [3488-closest-equal-element-queries](https://github.com/mohith1306/Leet_code/tree/master/3488-closest-equal-element-queries) |
@@ -537,6 +539,7 @@ Each solution includes:
 | [0853-most-profit-assigning-work](https://github.com/mohith1306/Leet_code/tree/master/0853-most-profit-assigning-work) |
 | [0874-backspace-string-compare](https://github.com/mohith1306/Leet_code/tree/master/0874-backspace-string-compare) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/mohith1306/Leet_code/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/mohith1306/Leet_code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2228-watering-plants-ii](https://github.com/mohith1306/Leet_code/tree/master/2228-watering-plants-ii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mohith1306/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
