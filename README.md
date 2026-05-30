@@ -273,6 +273,7 @@ Each solution includes:
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mohith1306/Leet_code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mohith1306/Leet_code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mohith1306/Leet_code/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3161-block-placement-queries](https://github.com/mohith1306/Leet_code/tree/master/3161-block-placement-queries) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mohith1306/Leet_code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mohith1306/Leet_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3379-transformed-array](https://github.com/mohith1306/Leet_code/tree/master/3379-transformed-array) |
@@ -484,6 +485,7 @@ Each solution includes:
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mohith1306/Leet_code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mohith1306/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/mohith1306/Leet_code/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [3161-block-placement-queries](https://github.com/mohith1306/Leet_code/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/mohith1306/Leet_code/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
@@ -1100,6 +1102,7 @@ Each solution includes:
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/mohith1306/Leet_code/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/mohith1306/Leet_code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mohith1306/Leet_code/tree/master/3721-longest-balanced-subarray-ii) |
 ## Rolling Hash
@@ -1114,4 +1117,8 @@ Each solution includes:
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mohith1306/Leet_code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/mohith1306/Leet_code/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
