@@ -293,6 +293,7 @@ Each solution includes:
 | [3634-minimum-removals-to-balance-array](https://github.com/mohith1306/Leet_code/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/mohith1306/Leet_code/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/mohith1306/Leet_code/tree/master/3640-trionic-array-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/mohith1306/Leet_code/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/mohith1306/Leet_code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mohith1306/Leet_code/tree/master/3721-longest-balanced-subarray-ii) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -638,6 +639,7 @@ Each solution includes:
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mohith1306/Leet_code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/mohith1306/Leet_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mohith1306/Leet_code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/mohith1306/Leet_code/tree/master/3689-maximum-total-subarray-value-i) |
 ## Trie
 |  |
 | ------- |
