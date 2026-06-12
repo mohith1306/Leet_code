@@ -96,6 +96,7 @@ Each solution includes:
 | [3462-vowels-game-in-a-string](https://github.com/mohith1306/Leet_code/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohith1306/Leet_code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mohith1306/Leet_code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-convert-date-to-binary](https://github.com/mohith1306/Leet_code/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohith1306/Leet_code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mohith1306/Leet_code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -286,6 +287,7 @@ Each solution includes:
 | [3488-closest-equal-element-queries](https://github.com/mohith1306/Leet_code/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mohith1306/Leet_code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mohith1306/Leet_code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohith1306/Leet_code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/mohith1306/Leet_code/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/mohith1306/Leet_code/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -599,6 +601,7 @@ Each solution includes:
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mohith1306/Leet_code/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2708-maximum-strength-of-a-group](https://github.com/mohith1306/Leet_code/tree/master/2708-maximum-strength-of-a-group) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mohith1306/Leet_code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3640-trionic-array-ii](https://github.com/mohith1306/Leet_code/tree/master/3640-trionic-array-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mohith1306/Leet_code/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Greedy
@@ -826,6 +829,7 @@ Each solution includes:
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mohith1306/Leet_code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2529-range-product-queries-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2529-range-product-queries-of-powers) |
 | [2708-maximum-strength-of-a-group](https://github.com/mohith1306/Leet_code/tree/master/2708-maximum-strength-of-a-group) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mohith1306/Leet_code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/mohith1306/Leet_code/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
@@ -859,6 +863,7 @@ Each solution includes:
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mohith1306/Leet_code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/mohith1306/Leet_code/tree/master/1382-balance-a-binary-search-tree) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mohith1306/Leet_code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -894,6 +899,7 @@ Each solution includes:
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohith1306/Leet_code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/mohith1306/Leet_code/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mohith1306/Leet_code/tree/master/2121-find-if-path-exists-in-graph) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mohith1306/Leet_code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
