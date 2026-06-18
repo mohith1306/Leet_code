@@ -82,6 +82,7 @@ Each solution includes:
 | [1013-fibonacci-number](https://github.com/mohith1306/Leet_code/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mohith1306/Leet_code/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/mohith1306/Leet_code/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mohith1306/Leet_code/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/mohith1306/Leet_code/tree/master/1448-maximum-69-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/mohith1306/Leet_code/tree/master/1513-number-of-substrings-with-only-1s) |
