@@ -88,6 +88,7 @@ Each solution includes:
 | [1513-number-of-substrings-with-only-1s](https://github.com/mohith1306/Leet_code/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mohith1306/Leet_code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohith1306/Leet_code/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1840-maximum-building-height](https://github.com/mohith1306/Leet_code/tree/master/1840-maximum-building-height) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/mohith1306/Leet_code/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mohith1306/Leet_code/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -242,6 +243,7 @@ Each solution includes:
 | [1803-average-waiting-time](https://github.com/mohith1306/Leet_code/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohith1306/Leet_code/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1840-maximum-building-height](https://github.com/mohith1306/Leet_code/tree/master/1840-maximum-building-height) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mohith1306/Leet_code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1975-maximum-matrix-sum](https://github.com/mohith1306/Leet_code/tree/master/1975-maximum-matrix-sum) |
@@ -683,6 +685,7 @@ Each solution includes:
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohith1306/Leet_code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1840-maximum-building-height](https://github.com/mohith1306/Leet_code/tree/master/1840-maximum-building-height) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohith1306/Leet_code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/mohith1306/Leet_code/tree/master/2126-destroying-asteroids) |
