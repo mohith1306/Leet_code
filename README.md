@@ -243,6 +243,7 @@ Each solution includes:
 | [1803-average-waiting-time](https://github.com/mohith1306/Leet_code/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/mohith1306/Leet_code/tree/master/1813-maximum-erasure-value) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mohith1306/Leet_code/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1833-maximum-ice-cream-bars](https://github.com/mohith1306/Leet_code/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/mohith1306/Leet_code/tree/master/1840-maximum-building-height) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mohith1306/Leet_code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -637,6 +638,7 @@ Each solution includes:
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mohith1306/Leet_code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohith1306/Leet_code/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/mohith1306/Leet_code/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/mohith1306/Leet_code/tree/master/1833-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/mohith1306/Leet_code/tree/master/1975-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/mohith1306/Leet_code/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2126-destroying-asteroids](https://github.com/mohith1306/Leet_code/tree/master/2126-destroying-asteroids) |
@@ -685,6 +687,7 @@ Each solution includes:
 | [1018-largest-perimeter-triangle](https://github.com/mohith1306/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohith1306/Leet_code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1833-maximum-ice-cream-bars](https://github.com/mohith1306/Leet_code/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/mohith1306/Leet_code/tree/master/1840-maximum-building-height) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohith1306/Leet_code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mohith1306/Leet_code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -1160,4 +1163,8 @@ Each solution includes:
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/mohith1306/Leet_code/tree/master/3161-block-placement-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/mohith1306/Leet_code/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
