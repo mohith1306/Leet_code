@@ -344,6 +344,7 @@ Each solution includes:
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mohith1306/Leet_code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/mohith1306/Leet_code/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mohith1306/Leet_code/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/mohith1306/Leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mohith1306/Leet_code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -424,6 +425,7 @@ Each solution includes:
 | [0944-delete-columns-to-make-sorted](https://github.com/mohith1306/Leet_code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mohith1306/Leet_code/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1143-longest-common-subsequence](https://github.com/mohith1306/Leet_code/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/mohith1306/Leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohith1306/Leet_code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mohith1306/Leet_code/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohith1306/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1006,6 +1008,7 @@ Each solution includes:
 | [0229-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/mohith1306/Leet_code/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/mohith1306/Leet_code/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/mohith1306/Leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohith1306/Leet_code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mohith1306/Leet_code/tree/master/1925-count-nice-pairs-in-an-array) |
