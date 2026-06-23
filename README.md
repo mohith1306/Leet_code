@@ -616,6 +616,7 @@ Each solution includes:
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mohith1306/Leet_code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3640-trionic-array-ii](https://github.com/mohith1306/Leet_code/tree/master/3640-trionic-array-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/mohith1306/Leet_code/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mohith1306/Leet_code/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Greedy
 |  |
@@ -1050,6 +1051,7 @@ Each solution includes:
 | [2483-minimum-penalty-for-a-shop](https://github.com/mohith1306/Leet_code/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/mohith1306/Leet_code/tree/master/2529-range-product-queries-of-powers) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/mohith1306/Leet_code/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/mohith1306/Leet_code/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/mohith1306/Leet_code/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/mohith1306/Leet_code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mohith1306/Leet_code/tree/master/3721-longest-balanced-subarray-ii) |
