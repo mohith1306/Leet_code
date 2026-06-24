@@ -105,6 +105,7 @@ Each solution includes:
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohith1306/Leet_code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mohith1306/Leet_code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/mohith1306/Leet_code/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/mohith1306/Leet_code/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mohith1306/Leet_code/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mohith1306/Leet_code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/mohith1306/Leet_code/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -617,6 +618,7 @@ Each solution includes:
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mohith1306/Leet_code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3640-trionic-array-ii](https://github.com/mohith1306/Leet_code/tree/master/3640-trionic-array-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mohith1306/Leet_code/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/mohith1306/Leet_code/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mohith1306/Leet_code/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Greedy
 |  |
