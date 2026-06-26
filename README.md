@@ -307,6 +307,7 @@ Each solution includes:
 | [3719-longest-balanced-subarray-i](https://github.com/mohith1306/Leet_code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mohith1306/Leet_code/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohith1306/Leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/mohith1306/Leet_code/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/mohith1306/Leet_code/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3936-split-array-by-prime-indices](https://github.com/mohith1306/Leet_code/tree/master/3936-split-array-by-prime-indices) |
@@ -374,6 +375,7 @@ Each solution includes:
 | [3719-longest-balanced-subarray-i](https://github.com/mohith1306/Leet_code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mohith1306/Leet_code/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohith1306/Leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mohith1306/Leet_code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/mohith1306/Leet_code/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
@@ -526,6 +528,7 @@ Each solution includes:
 | [3719-longest-balanced-subarray-i](https://github.com/mohith1306/Leet_code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mohith1306/Leet_code/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohith1306/Leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1062,6 +1065,7 @@ Each solution includes:
 | [3719-longest-balanced-subarray-i](https://github.com/mohith1306/Leet_code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mohith1306/Leet_code/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohith1306/Leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1160,6 +1164,7 @@ Each solution includes:
 | [3719-longest-balanced-subarray-i](https://github.com/mohith1306/Leet_code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mohith1306/Leet_code/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohith1306/Leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1184,4 +1189,5 @@ Each solution includes:
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohith1306/Leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/mohith1306/Leet_code/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
